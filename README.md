@@ -1,5 +1,5 @@
 # Hominum
->*Homo sapiens biological and medical database*
+>*Biological and medical database of the human body*
 
 This project is about collecting, organizing and structuring details about the biology of the human body. This creates a complete database that can be used to study, review, and develop related proyects.
 
