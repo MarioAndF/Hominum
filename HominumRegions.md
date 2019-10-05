@@ -1,0 +1,209 @@
+# Human body
+## Regions
+### Head
+- Cranium
+	- Skeleton
+		- Vault
+			- Frontal bone
+			- Temporal bones
+			- Parietal bones
+		- Base
+			- Occipital bone
+			- Sphenoid bone
+			- Ethmoid bone
+	- Joints
+		- Atlanto-occipital joint
+		- Anterior atlanto-occipital membrane
+		- Posterior atlanto-occipital membrane
+		- Occipitoaxial ligaments
+			- Tectorial membrane
+			- Apical ligament of dens
+			- Alar ligaments
+		- Stylohyoid ligament
+	- Vessels
+		- Arteries
+		- Veins
+		- Lymphatics
+	- Brain
+	- Nerves
+		- Cranial nerves
+			- Olfactory nerve (I)
+			- Optic nerve (II)
+			- Oculomotor nerve (III)
+			- Trochlear nerve (IV)
+			- Trigeminal nerve (V)
+			- Abducens nerve (VI)
+			- Facial nerve (VII)
+			- Vestibulocochlear nerve (VIII)
+			- Glossopharyngeal nerve (IX)
+			- Vagus nerve (X)
+			- Accessory nerve (XI)
+			- Hypoglosseal nerve (XII)
+- Face
+	- Skeleton
+		- Upper jaw
+			- Maxillary bones
+			- Vomer bone
+			- Lacrimal bones
+			- Palatine bones
+			- Nasal bones
+			- Zygomatic bones
+			- Inferior nasal conchae
+		- Lower jaw
+			- Mandible bone
+	- Joints
+		- Temporomandibular joint
+	- Muscles
+		- Orbital muscles
+		- Ear muscles
+		- Nose muscles
+		- Mouth muscles
+		- Mastication muscles
+	- Cavities
+		- Orbits
+		- Nasal
+		- Oral
+		- Infratemporal fossa
+		- Pterygopalatine fossa
+	- Sensory organs
+		- Vision organ
+		- Olfatory organ
+		- Vesticulocochlear organ
+### Neck
+- Skeleton
+	- Cervical vertebrae
+		- C1 vertebra [A02.2.02.101]
+		- C2 vertebra [A02.2.02.201]
+		- C3 vertebra [A02.2.02.001]
+		- C4 vertebra [A02.2.02.001]
+		- C5 vertebra [A02.2.02.001]
+		- C6 vertebra [A02.2.02.001]
+		- C7 vertebra [A02.2.02.301]
+	- Hyoid bone [A02.1.16.001]
+- Joints
+	- Atlanto-occipital joint [A03.1.08.001]
+	- Anterior atlanto-occipital membrane
+	- Posterior atlanto-occipital membrane
+	- Occipitoaxial ligaments
+		- Tectorial membrane
+		- Apical ligament of dens
+		- Alar ligaments
+	- Atlanto-axial joints
+		- Median atlanto-axial joint [A03.2.04.001]
+		- Lateral atlanto-axial joint [A03.2.05.001]
+		- Atlantoaxial ligaments
+			- Anterior atlantoaxial ligament
+			- Posterior atlantoaxial ligament
+	- Vertebral joints
+		- Intervertebral joint [A03.2.02.002]
+		- Zygapophysial joint [A03.2.06.001]
+		- Ligament flava [A03.2.01.003]
+		- Interspinous ligament
+		- Supraspinous ligament
+		- Intertransverse ligaments
+		- Uncovertebral joint
+	- Stylohyoid ligament
+- Muscles
+	- Anterior region
+		- Superficial muscles
+			- Platisma muscle [A04.2.01.001]
+		- Deep muscles
+			- Anterior
+				- Sternocleidomastoid muscle [A04.2.01.008]
+				- Prevertebral muscles
+					- Longus colli muscle [A04.2.01.002]
+					- Rectus capitis anterior muscle [A04.2.02.002]
+					- Longus capitis muscle [A04.2.01.003]
+			- Lateral
+				- Scalene muscles
+					- Scalenus anterior muscle [A04.2.01.004]
+					- Scalenus medius muscle [A04.2.01.005]
+					- Scalenus posterior muscle [A04.2.01.006]
+				- Rectus capitis lateralis muscle [A04.2.02.003]
+				- Intertransversarii muscles
+					- Anterior cervical intertransversarii [A04.3.01.012]
+					- Lateral posterior cervical intertransversarii [A04.3.01.012]
+		- Suprahyoid muscles
+			- Geniohyoid muscle [A04.2.03.007]
+			- Mylohyoid muscle [A04.2.03.006]
+			- Stylohyoid muscle [A04.2.03.005]
+			- Digastric muscle [A04.2.03.002]
+		- Infrahyoid muscles
+			- Sternohyoid muscle [A04.2.04.002]
+			- Omohyoid muscle [A04.2.04.003]
+			- Sternothyroid muscle [A04.2.04.006]
+			- Thyrohyoid muscle [A04.2.04.007]
+	- Posterior region
+		- Superficial muscles
+			- Trapezius muscle [A04.3.01.001]
+		- Deep muscles
+			- Suboccipital muscles
+				- Rectus capitis posterior minus muscle [A04.2.02.004]
+				- Rectus capitis posterior mayor muscle [A04.2.02.005]
+				- Obliquus capitis superior muscle [A04.2.02.006]
+				- Obliquus capitis inferior muscle [A04.2.02.007]
+			- Transversospinales muscles
+				- Interspinales cervicis muscle [A04.3.02.304]
+				- Multifidus muscle
+				- Semispinalis capitis muscle [A04.3.02.209]
+				- Semispinalis cervicis muscle [A04.3.02.208]
+				- Rotatores crevicis muscle [A04.3.02.213]
+			- Erector spinae
+				- Longissimus capitis muscle [A04.3.02.014]
+				- Longissimus cervicis muscle [A04.3.02.013]
+				- Iliocostalis cervicis muscle [A04.3.02.009]
+			- Splenius muscles
+				- Splenius capitis muscle [A04.3.02.103]
+				- Splenius cervicis muscle [A04.3.02.104]
+			- Levator scapulae muscle [A04.3.01.009]
+- Fascia
+	- Superficial cervical fascia
+	- Deep cervical fascia
+		- Investing fascia [A04.2.05.002]
+		- Pretracheal fascia [A04.2.05.004]
+		- Prevertebral fascia [A04.2.05.006]
+		- Carotid sheath [A04.2.05.007]
+- Vessels
+	- Arteries
+		- Common carotid artery [A12.2.04.006]
+			- External carotid artery [A12.2.05.001]
+				- Superior thyroid artery [A12.2.05.002]
+				- Ascending pharyngeal artery [A12.2.05.010]
+				- Lingual artery [A12.2.05.015]
+				- Facial artery [A12.2.05.020]
+				- Occipital artery [A12.2.05.030]
+				- Posterior auricular artery [A12.2.05.037]
+				- Superficial temporal artery [A12.2.05.045]
+				- Maxillary artery [A12.2.05.053]
+			- Internal carotid artery [A12.2.06.001]
+		- Subclavian artery [A12.2.08.001]
+			- Vertebral artery [A12.2.08.002]
+			- Internal thoracic artery [A12.2.08.029]
+			- Thyrocervical trunk [A12.2.08.042]
+			- Costocervical trunk [A12.2.08.059]
+			- Dorsal scapular artery [A12.2.08.058]
+	- Veins
+		- Internal jugular vein [A12.3.05.001]
+		- External jugular vein [A12.3.05.045]
+		- Anterior jugular vein [A12.3.05.047]
+		- Deep cervical vein [A12.3.04.017]
+		- Inferior thyroid vein [A12.3.04.002]
+		- Vertebral vein [A12.3.04.012]
+		- Subclavian vein [A12.3.08.002]
+- Nerves
+	- Accessory nerve [A14.2.01.184]
+	- Cervical plexus [A14.2.02.012]
+	- Brachial plexus
+- Viscerae
+	- Pharynx [A05.3.01.001]
+	- Esophagus
+	- Larynx [A06.2.01.001]
+	- Trachea [A06.3.01.001]
+	- Thyroid gland [A11.3.00.001]
+	- Parathyroid glands [A11.4.00.001]
+	- Thymus [A13.1.02.001]
+### Thorax
+### Abdomen
+### Pelvis
+### Upper limb
+### Lower limb
