@@ -9,5 +9,4 @@ The complete database is currently still in development. It is organized by a re
 
 ## Author
 
-Mario A Flores
-marioandf@gmail.com
+Mario A Flores - marioandf@gmail.com
