@@ -9,4 +9,4 @@ The complete database contains most details about the human body and is currentl
 
 ## Author
 
-Mario A Flores - marioandf@gmail.com
+Mario A Flores, MD - marioandf@gmail.com
