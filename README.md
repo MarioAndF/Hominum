@@ -9,7 +9,7 @@ The complete database contains most details about the human body and is currentl
 
 ## Usage
 
-All the details collected about the human body are stored in a file named [**Data.md**](./Data.md). You can open the file to review details about any part of the body. Since there are thousand of terms in the file, you can use [**RegionalIndex.md**](./RegionalIndex.md) or [**SystemicIndex.md**](./SystemicIndex.md) to browse and search through different parts of the human body.
+You can open the file [**Data.md**](./Data.md) to review details about any part of the body. Since there are thousand of terms in the file, you can use [**RegionalIndex.md**](./RegionalIndex.md) or [**SystemicIndex.md**](./SystemicIndex.md) to browse and search through different parts of the human body.
 
 ## Author
 
