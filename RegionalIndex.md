@@ -69,7 +69,7 @@
 		- Vision organ
 		- Olfatory organ
 		- Vesticulocochlear organ
-### Neck
+### Neck [A01.1.00.012]
 - Skeleton
 	- Cervical vertebrae
 		- C1 vertebra [A02.2.02.101]
@@ -163,35 +163,38 @@
 		- Pretracheal fascia [A04.2.05.004]
 		- Prevertebral fascia [A04.2.05.006]
 		- Carotid sheath [A04.2.05.007]
-- Vessels
-	- Arteries
-		- Common carotid artery [A12.2.04.006]
-			- External carotid artery [A12.2.05.001]
-				- Superior thyroid artery [A12.2.05.002]
-				- Ascending pharyngeal artery [A12.2.05.010]
-				- Lingual artery [A12.2.05.015]
-				- Facial artery [A12.2.05.020]
-				- Occipital artery [A12.2.05.030]
-				- Posterior auricular artery [A12.2.05.037]
-				- Superficial temporal artery [A12.2.05.045]
-				- Maxillary artery [A12.2.05.053]
-			- Internal carotid artery [A12.2.06.001]
-		- Subclavian artery [A12.2.08.001]
-			- Vertebral artery [A12.2.08.002]
-			- Internal thoracic artery [A12.2.08.029]
-			- Thyrocervical trunk [A12.2.08.042]
-			- Costocervical trunk [A12.2.08.059]
-			- Dorsal scapular artery [A12.2.08.058]
-	- Veins
-		- Internal jugular vein [A12.3.05.001]
-		- External jugular vein [A12.3.05.045]
-		- Anterior jugular vein [A12.3.05.047]
-		- Deep cervical vein [A12.3.04.017]
-		- Inferior thyroid vein [A12.3.04.002]
-		- Vertebral vein [A12.3.04.012]
-		- Subclavian vein [A12.3.08.002]
+- Arteries
+	- Common carotid artery [A12.2.04.006]
+		- External carotid artery [A12.2.05.001]
+			- Superior thyroid artery [A12.2.05.002]
+			- Ascending pharyngeal artery [A12.2.05.010]
+			- Lingual artery [A12.2.05.015]
+			- Facial artery [A12.2.05.020]
+			- Occipital artery [A12.2.05.030]
+			- Posterior auricular artery [A12.2.05.037]
+			- Superficial temporal artery [A12.2.05.045]
+			- Maxillary artery [A12.2.05.053]
+		- Internal carotid artery [A12.2.06.001]
+	- Vertebral artery
+	- Subclavian artery [A12.2.08.001]
+		- Vertebral artery [A12.2.08.002]
+		- Internal thoracic artery [A12.2.08.029]
+		- Thyrocervical trunk [A12.2.08.042]
+		- Costocervical trunk [A12.2.08.059]
+		- Dorsal scapular artery [A12.2.08.058]
+- Veins
+	- Internal jugular vein [A12.3.05.001]
+	- External jugular vein [A12.3.05.045]
+	- Anterior jugular vein [A12.3.05.047]
+	- Deep cervical vein [A12.3.04.017]
+	- Inferior thyroid vein [A12.3.04.002]
+	- Vertebral vein [A12.3.04.012]
+	- Subclavian vein [A12.3.08.002]
 - Nerves
 	- Accessory nerve [A14.2.01.184]
+	- Vagus nerve
+	- Glossopharyngeal nerve
+	- Hypoglossal nerve
 	- Cervical plexus [A14.2.02.012]
 	- Brachial plexus
 - Viscerae
