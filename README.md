@@ -13,4 +13,4 @@ All the details collected about the human body are stored in a file named [**Dat
 
 ## Author
 
-*Mario A Flores, MD* - marioandf@gmail.com
+Mario A Flores, MD - marioandf@gmail.com
