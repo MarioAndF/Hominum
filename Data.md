@@ -357,6 +357,9 @@
 	- EN: "Neck"
 	- LA: "Collum"
 	- ES: "Cuello"
+- ## Data
+	- Diseases
+		- Neck Trauma
 
 # A01.1.00.013
 - ## Term
