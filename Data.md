@@ -5121,9 +5121,37 @@
 
 # A02.2.03.001
 - ## Term
-	- EN: "Thoracic vertebrae (T I-T XII)"
-	- LA: "Vertebrae thoracicae (T I-T XII)"
+	- EN: "Thoracic vertebrae (TI-TXII)"
+	- LA: "Vertebrae thoracicae (TI-TXII)"
 	- ES: "Vértebras torácicas (TI-TXII)"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Bone tissue
+		- Configuration
+		- Conformation
+			- Figure
+				- Cylinder
+			- Views
+				- Superior
+				- Inferior
+				- Anterior
+				- Posterior
+				- Lateral
+		- Conformation
+			- Body
+				- Intervertebral facet
+				- Superior costal facet
+				- Inferior costal facet
+			- Superior articular process
+			- Inferior articular process
+			- Transverse process
+				- Foramen transversarium
+				- Transverse costal facet
+			- Spinous process
+			- Laminae
+			- Pedicles
+			- Vertebral foramen
 
 # A02.2.03.002
 - ## Term
@@ -5327,7 +5355,7 @@
 - ## Term
 	- EN: "Ribs (I-XII)"
 	- LA: "Costae (I-XII)"
-	- ES: "Costilas (I-XII)"
+	- ES: "Costillas (I-XII)"
 
 # A02.3.01.002
 - ## Term
@@ -5358,6 +5386,26 @@
 	- EN: "Rib"
 	- LA: "Costa"
 	- ES: "Costillas"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Bone tissue
+		- Configuration
+			- Shape
+				- Flat bone
+			- Views
+				- Superior
+				- Inferior
+		- Conformation
+			- Body
+				- Angle
+			- Posterior end
+				- Head
+					- Articular facet
+				- Neck
+				- Tubercle
+					- Articular facet
+			- Anterior end
 
 # A02.3.02.002
 - ## Term
@@ -5436,6 +5484,29 @@
 	- EN: "First rib (I)"
 	- LA: "Costa prima (I)"
 	- ES: "Primera costilla (I)"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Bone tissue
+		- Configuration
+			- Shape
+				- Flat bone
+			- Views
+				- Superior
+				- Inferior
+		- Conformation
+			- Body
+				- Angle
+				- Scalene tubercle
+				- Groove for subclavian artery
+				- Groove for subclavian vein
+			- Posterior end
+				- Head
+					- Articular facet
+				- Neck
+				- Tubercle
+					- Articular facet
+			- Anterior end
 
 # A02.3.02.015
 - ## Term
@@ -5460,6 +5531,27 @@
 	- EN: "Second rib (II)"
 	- LA: "Costa secunda (II)"
 	- ES: "Segunda costilla (II)"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Bone tissue
+		- Configuration
+			- Shape
+				- Flat bone
+			- Views
+				- Superior
+				- Inferior
+		- Conformation
+			- Body
+				- Angle
+				- Tuberosity for serratus anterior
+			- Posterior end
+				- Head
+					- Articular facet
+				- Neck
+				- Tubercle
+					- Articular facet
+			- Anterior end
 
 # A02.3.02.019
 - ## Term
@@ -5478,6 +5570,24 @@
 	- EN: "Sternum"
 	- LA: "Sternum"
 	- ES: "Esternón"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Bone tissue
+		- Configuration
+			- Shape
+				- Flat bone
+			- Views
+				- Anterior
+					- Sternal angle
+				- Posterior
+		- Conformation
+			- Manubrium
+				- Clavicular nocthch
+				- Jugular notch
+			- Body
+				- Costal notches
+			- Xifoid process
 
 # A02.3.03.002
 - ## Term
@@ -5526,12 +5636,6 @@
 	- EN: "(Suprasternal bones)"
 	- LA: "(Ossa suprasternalia)"
 	- ES: "(Huesos supraesternales)"
-
-# A02.2.03.001
-- ## Term
-	- EN: "Thoracic vertebrae (T I-T XII)"
-	- LA: "Vertebrae thoracicae (T I-T XII)"
-	- ES: "Vértebras torácicas (TI-TXII)"
 
 # A02.3.04.001
 - ## Term

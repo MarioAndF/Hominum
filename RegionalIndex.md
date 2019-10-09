@@ -206,6 +206,32 @@
 	- Parathyroid glands [A11.4.00.001]
 	- Thymus [A13.1.02.001]
 ### Thorax
+- Skeleton
+	- Vertebral column
+		- Toracic vertebrae [A02.2.03.001]
+	- Thoracic cage
+		- Sternum [A02.3.03.001]
+		- Ribs 
+			- True ribs
+				- 1st rib [A02.3.02.014]
+				- 2nd rib [A02.3.02.018]
+				- 3rd rib [A02.3.02.001]
+				- 4th rib [A02.3.02.001]
+				- 5th rib [A02.3.02.001]
+				- 6th rib [A02.3.02.001]
+				- 7th rib [A02.3.02.001]
+			- False ribs
+				- 8th rib [A02.3.02.001]
+				- 9th rib [A02.3.02.001]
+				- 10th rib [A02.3.02.001]
+			- Floating ribs
+				- 11th rib [A02.3.02.001]
+				- 12th rib [A02.3.02.001]
+- Joints
+- Muscles
+- Arteries
+- Veins
+- Viscerae
 ### Abdomen
 ### Pelvis
 ### Upper limb
