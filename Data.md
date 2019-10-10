@@ -8664,7 +8664,7 @@
 	- ES: "Sinfisis intervertebral"
 - ## Data
 	- ### Anatomy
-		- Classification
+		- Configuration
 			- Symphysis
 		- Conformation
 			- Surfaces
@@ -8681,6 +8681,11 @@
 	- EN: "Intervertebral disc"
 	- LA: "Discus intervertebralis"
 	- ES: "Disco intervertebral"
+- ## Data
+	- Anatomy
+		- Conformation
+			- Anulus fibrosus
+			- Nucleus pulposus
 
 # A03.2.02.004
 - ## Term
@@ -8919,6 +8924,21 @@
 	- EN: "Joint of head of rib"
 	- LA: "Articulatio capitis costae"
 	- ES: "Articulación de la cabeza de las costillas"
+- ## Data
+	- Anatomy
+		- Configuration
+			- Plane joint
+		- Conformation
+			- Surfaces
+				- Head of rib
+				- Superior costal facet
+				- Inferior costal facet
+			- Binding tissue
+				- Articular capsule
+					- Radiate ligament of head of rib
+					- Posterior costovertebral ligament
+				- Intra-articular ligament of head of rib
+			- Synovial membrane
 
 # A03.3.04.003
 - ## Term
@@ -8937,6 +8957,21 @@
 	- EN: "Costotransverse joint"
 	- LA: "Articulatio costotransversaria"
 	- ES: "Articulación costotransversa"
+- ### Data
+    - Anatomy
+        - Configuration
+			- Pivot joint
+        - Conformation
+            - Surfaces
+				- Tubercle of rib
+				- Transverse process
+            - Binding tissue
+				- Articular capsule
+					- Lateral costotransverse ligament
+					- Inferior costotransverse ligament
+				- Binding tissue
+					- Costotransverse ligament
+					- Superior costotransverse ligament
 
 # A03.3.04.006
 - ## Term
@@ -8973,6 +9008,21 @@
 	- EN: "Sternocostal joints"
 	- LA: "Articulationes sternocostales"
 	- ES: "Articulaciones esternocostales"
+- ### Joints
+    - Anatomy
+        - Configuration
+			- Plane joint
+        - Conformation
+            - Surfaces
+				- Medial end of costal cartilage
+				- Sternum
+            - Binding tissue
+				- Articular capsule
+					- Anterior radiate sternocostal ligament
+					- Posterior radiate sternocostal ligament
+				- Intra-articular sternocostal ligament
+			- Synovial membrane
+
 
 # A03.3.05.002
 - ## Term
@@ -9003,12 +9053,28 @@
 	- EN: "Costochondral joints"
 	- LA: "Articulationes costochondrales"
 	- ES: "Articulaciones costocondreales"
+- ### Joints
+    - Anatomy
+        - Configuration
+			- Fibrous joint
+        - Conformation
+            - Surfaces
+				- Anterior end of rib
+				- Costal cartilage
+            - Binding tissue
 
 # A03.3.07.001
 - ## Term
 	- EN: "Interchondral joints"
 	- LA: "Articulationes interchondrales"
 	- ES: "Articulaciones intercondreales"
+- ### Joints
+    - Anatomy
+        - Configuration
+        - Conformation
+            - Surfaces
+				- Costal cartilages
+            - Binding tissue
 
 # A03.5.00.001
 - ## Term

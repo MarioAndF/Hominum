@@ -1,5 +1,3 @@
-# Human body map
-## Cheat sheet
 - ### General organ
     - Anatomy
         - Constitution
@@ -14,6 +12,12 @@
         - Constitution
         - Configuration
         - Conformation
+- ### Joints
+    - Anatomy
+        - Configuration
+        - Conformation
+            - Surfaces
+            - Binding tissue
 - ### Muscles
     - Anatomy
         - Constitution

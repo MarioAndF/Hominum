@@ -228,7 +228,49 @@
 				- 11th rib [A02.3.02.001]
 				- 12th rib [A02.3.02.001]
 - Joints
+	- Vertebral joints
+		- Intervertebral joint [A03.2.02.002]
+		- Zygapophysial joint [A03.2.06.001]
+		- Ligament flava [A03.2.01.003]
+		- Interspinous ligament
+		- Supraspinous ligament
+		- Intertransverse ligaments
+		- Uncovertebral joint
+	- Costovertebral joints
+		- Joint of head of rib [A03.3.04.002]
+		- Costotransverse joint [A03.3.04.005]
+	- Costochondral joints [A03.3.06.001]
+	- Interchondral joints [A03.3.07.001]
+	- Sternocostal joints [A03.3.05.001]
 - Muscles
+	- Muscles of the back
+		- Posterior group
+			- Erector spinae muscles
+			- Serratus posterior muscles
+				- Serratus posterior inferior
+				- Serratus posterior superior
+			- Rhomboid muscles
+				- Rhomboid major
+				- Rhomboid minor
+			- Superficial
+				- Latissimus dorsi
+				- Trapezius
+		- Medium group
+			- Intertransversarii
+			- Quadratus lumborum
+		- Anterior group
+			- Iliopsoas
+				- Iliacus
+				- Psoas major
+			- Psoas minor
+	- Anterolateral muscles of thorax
+		- Intercostal group
+			- External intercostal muscle
+			- Internal intercostal muscle
+			- Innermost intercostal muscle
+		- Deep group
+			- Transversus thoracis
+	- Diaphragm
 - Arteries
 - Veins
 - Viscerae
