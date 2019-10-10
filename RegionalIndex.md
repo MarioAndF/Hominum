@@ -246,6 +246,14 @@
 	- Muscles of the back
 		- Posterior group
 			- Erector spinae muscles
+				- Transversospinales [A04.3.02.201]
+					- Multifidus [A04.3.02.202]
+					- Semispinalis [A04.3.02.206]
+					- Rotatores [A04.3.02.210]
+				- Longissimus [A04.3.02.010]
+				- Iliocostalis [A04.3.02.005]
+				- Spinalis [A04.3.02.015]
+				- Interspinales [A04.3.02.301]
 			- Serratus posterior muscles
 				- Serratus posterior inferior
 				- Serratus posterior superior

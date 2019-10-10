@@ -11827,6 +11827,26 @@
 	- EN: "Iliocostalis"
 	- LA: "M. iliocostalis"
 	- ES: "Músculo iliocostal"
+- ### Data
+    - Anatomy
+        - Constitution
+			- Skeletal muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Thoracolumbar fascia
+            - Insertion
+				- Angle of ribs
+				- Accesory process of lumbar vertebra
+        - Arteries
+			- Lumbar arteries
+			- Posterior intercostal arteries
+        - Nerves
+			- Lateral branches of dorsal rami spinal nerves
+        - Action
+			- Extension of neck
+			- Lateral flexion of neck
 
 # A04.3.02.006
 - ## Term
@@ -11875,6 +11895,27 @@
 	- EN: "Longissimus"
 	- LA: "M. longissimus"
 	- ES: "Músculo longísimo"
+- ### Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Transverse process
+            - Insertion
+				- Transverse process
+				- Lower border of ribs
+				- Accesory process of lumbar vertebra
+        - Arteries
+			- Lumbar arteries
+			- Posterior intercostal arteries
+        - Nerves
+			- Lateral branches of dorsal rami spinal nerves
+        - Action
+			- Extensión of back
+			- Lateral flexion of back
 
 # A04.3.02.011
 - ## Term
@@ -11942,6 +11983,25 @@
 	- EN: "Spinalis"
 	- LA: "M. spinalis"
 	- ES: "Músculo espinoso"
+- ### Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Spinous process
+            - Insertion
+				- Spinous process
+        - Arteries
+			- Lumbar arteries
+			- Posterior intercostal arteries
+        - Nerves
+			- Lateral branches of dorsal rami spinal nerves
+        - Action
+			- Extensión of back
+			- Lateral flexion of back
 
 # A04.3.02.016
 - ## Term
@@ -12032,12 +12092,38 @@
 	- EN: "Transversospinales"
 	- LA: "Musculi transversospinales"
 	- ES: "Músculos transverso-espinosos"
+- ### Muscles
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Rotator muscles
+			- Multifidus muscle
+        - Arteries
+        - Nerves
+        - Action
 
 # A04.3.02.202
 - ## Term
 	- EN: "Multifidus"
 	- LA: "Mm. multifidi"
 	- ES: "Músculos multifídos"
+- ### Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Transverse process
+            - Insertion
+				- Spinous process of 2 vertebrae above
+        - Arteries
+        - Nerves
+        - Action
 
 # A04.3.02.203
 - ## Term
@@ -12062,6 +12148,20 @@
 	- EN: "Semispinalis"
 	- LA: "M. semispinalis"
 	- ES: "Músculo semiespinoso"
+- ### Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Transverse process
+            - Insertion
+				- Spinous process of 4 vertebrae above
+        - Arteries
+        - Nerves
+        - Action
 
 # A04.3.02.207
 - ## Term
@@ -12126,6 +12226,20 @@
 	- EN: "Rotatores"
 	- LA: "Mm. rotatores"
 	- ES: "Músculos rotatores"
+- ### Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Transverse process
+            - Insertion
+				- Spinous process of vertebra above
+        - Arteries
+        - Nerves
+        - Action
 
 # A04.3.02.211
 - ## Term
@@ -12169,6 +12283,20 @@
 	- EN: "Interspinales"
 	- LA: "Musculi interspinales"
 	- ES: "Músculos interespinosos"
+- ### Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Short muscle
+        - Conformation
+            - Origin
+				- Superior border of spinous process
+            - Insertion
+				- Inferior border of spinous process above
+        - Arteries
+        - Nerves
+        - Action
 
 # A04.3.02.302
 - ## Term
