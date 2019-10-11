@@ -8957,7 +8957,7 @@
 	- EN: "Costotransverse joint"
 	- LA: "Articulatio costotransversaria"
 	- ES: "Articulación costotransversa"
-- ### Data
+- ## Data
     - Anatomy
         - Configuration
 			- Pivot joint
@@ -11680,18 +11680,74 @@
 	- EN: "Latissimus dorsi"
 	- LA: "M. latissimus dorsi"
 	- ES: "Músculo dorsal ancho"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+            - Origin
+				- Spinous process T6-L5
+				- Sacrum
+				- Iliac crest
+				- 8th-12th rib
+            - Insertion
+				- Intertubercular groove of humerus
+        - Arteries
+			- Dorsal scapular artery
+        - Nerves
+			- Dorsal scapular nerve
+        - Action
+			- Retraccion of scapula
 
 # A04.3.01.007
 - ## Term
 	- EN: "Rhomboid major"
 	- LA: "M. rhomboideus major"
 	- ES: "Músculo romboides mayor"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+            - Origin
+				- Nuchal ligament
+				- Spinous process C7-T4
+            - Insertion
+				- Infraspinous medial border of scapula
+        - Arteries
+			- Dorsal scapular artery
+        - Nerves
+			- Dorsal scapular nerve
+        - Action
+			- Retraccion of scapula
 
 # A04.3.01.008
 - ## Term
 	- EN: "Rhomboid minor"
 	- LA: "M. rhomboideus minor"
 	- ES: "Músculo romboides menor"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+            - Origin
+				- Nuchal ligament
+				- Spinous process C7-T4
+            - Insertion
+				- Supraspinous medial border of scapula
+        - Arteries
+			- Dorsal scapular artery
+        - Nerves
+			- Dorsal scapular nerve
+        - Action
+			- Retraccion of scapula
 
 # A04.3.01.009
 - ## Term
@@ -11723,12 +11779,47 @@
 	- EN: "Serratus posterior inferior"
 	- LA: "M. serratus posterior inferior"
 	- ES: "Músculo serrato posterior inferior"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+            - Origin
+				- Nuchal ligament
+				- Spinous process of C1-T3 vertebrae
+            - Insertion
+				- 1st-5th rib
+        - Arteries
+			- Intercostal arteries
+        - Nerves
+			- Intercostal nerves
+        - Action
+			- Elevation of ribs
 
 # A04.3.01.011
 - ## Term
 	- EN: "Serratus posterior superior"
 	- LA: "M. serratus posterior superior"
 	- ES: "Músculo serrato posterior superior"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Spinous process T10-L3 vertebrae
+            - Insertion
+				- 8th-12th rib
+        - Arteries
+			- Intercostal arteries
+        - Nerves
+			- Intercostal nerves
+        - Action
+			- Depression of ribs
 
 # A04.3.01.012
 - ## Term
@@ -11827,7 +11918,7 @@
 	- EN: "Iliocostalis"
 	- LA: "M. iliocostalis"
 	- ES: "Músculo iliocostal"
-- ### Data
+- ## Data
     - Anatomy
         - Constitution
 			- Skeletal muscle tissue
@@ -11895,7 +11986,7 @@
 	- EN: "Longissimus"
 	- LA: "M. longissimus"
 	- ES: "Músculo longísimo"
-- ### Data
+- ## Data
     - Anatomy
         - Constitution
 			- Striated muscle tissue
@@ -11983,7 +12074,7 @@
 	- EN: "Spinalis"
 	- LA: "M. spinalis"
 	- ES: "Músculo espinoso"
-- ### Data
+- ## Data
     - Anatomy
         - Constitution
 			- Striated muscle tissue
@@ -12110,7 +12201,7 @@
 	- EN: "Multifidus"
 	- LA: "Mm. multifidi"
 	- ES: "Músculos multifídos"
-- ### Data
+- ## Data
     - Anatomy
         - Constitution
 			- Striated muscle tissue
@@ -12148,7 +12239,7 @@
 	- EN: "Semispinalis"
 	- LA: "M. semispinalis"
 	- ES: "Músculo semiespinoso"
-- ### Data
+- ## Data
     - Anatomy
         - Constitution
 			- Striated muscle tissue
@@ -12226,7 +12317,7 @@
 	- EN: "Rotatores"
 	- LA: "Mm. rotatores"
 	- ES: "Músculos rotatores"
-- ### Data
+- ## Data
     - Anatomy
         - Constitution
 			- Striated muscle tissue
@@ -12283,7 +12374,7 @@
 	- EN: "Interspinales"
 	- LA: "Musculi interspinales"
 	- ES: "Músculos interespinosos"
-- ### Data
+- ## Data
     - Anatomy
         - Constitution
 			- Striated muscle tissue
@@ -12338,6 +12429,23 @@
 	- EN: "Intertransversarii"
 	- LA: "Musculi intertransversarii"
 	- ES: "Músculos intertransversos"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Short muscle
+        - Conformation
+            - Origin
+				- Transverse process
+            - Insertion
+				- Transverse process above
+        - Arteries
+			- Posterior intercostal artery
+        - Nerves
+			- Posterior rami of spinal nerves
+        - Action
+			- Lateral flexion of trunk
 
 # A04.3.02.402
 - ## Term
@@ -12458,30 +12566,115 @@
 	- EN: "External intercostal muscle"
 	- LA: "Mm. intercostales externi"
 	- ES: "Músculos intercostales externos"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Short muscle
+        - Conformation
+            - Origin
+				- External labia of costal groove
+            - Insertion
+				- External labia of superior border of rib below
+        - Arteries
+			- Intercostal artery
+        - Nerves
+			- Intercostal nerve
+        - Action
+			- Expansion of thorax
 
 # A04.4.01.013
 - ## Term
 	- EN: "Internal intercostal muscle"
 	- LA: "Mm. intercostales interni"
 	- ES: "Músculos intercostales intemos"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Short muscle
+        - Conformation
+            - Origin
+				- Costal groove
+            - Insertion
+				- Superior border of rib below
+        - Arteries
+			- Intercostal artery
+        - Nerves
+			- Intercostal nerve
+        - Action
+			- Contraction of thorax
 
 # A04.4.01.014
 - ## Term
 	- EN: "Innermost intercostal muscle"
 	- LA: "Mm. intercostales intimi"
 	- ES: "Músculos intercostales internos"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Short muscle
+        - Conformation
+            - Origin
+				- Internal labia of costal groove
+            - Insertion
+				- Internal labia of superior border of rib below
+        - Arteries
+			- Intercostal artery
+        - Nerves
+			- Intercostal nerve
+        - Action
+			- Contraction of thorax
 
 # A04.4.01.015
 - ## Term
 	- EN: "Subcostales"
 	- LA: "Mm. subcostales"
 	- ES: "Músculos subcostales"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Short muscle
+        - Conformation
+            - Origin
+				- Internal face of rib
+            - Insertion
+				- Internal face of rib below
+        - Arteries
+			- Intercostal artery
+        - Nerves
+			- Intercostal nerve
+        - Action
+			- Contraction of thorax
 
 # A04.4.01.016
 - ## Term
 	- EN: "Transversus thoracis"
 	- LA: "M. transversus thoracis"
 	- ES: "M. transverso del tórax"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+            - Origin
+				- Posterior face of sternum
+            - Insertion
+				- 3rd-6th costal cartilages
+        - Arteries
+			- Intercostal artery
+        - Nerves
+			- Intercostal nerve
+        - Action
+			- Depression of ribs
 
 # A04.4.01.017
 - ## Term
@@ -12512,6 +12705,17 @@
 	- EN: "Diaphragm"
 	- LA: "Diaphragma"
 	- ES: "Diafragma"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+            - 
+        - Arteries
+        - Nerves
+        - Action
 
 # A04.4.02.002
 - ## Term

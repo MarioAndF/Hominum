@@ -255,30 +255,24 @@
 				- Spinalis [A04.3.02.015]
 				- Interspinales [A04.3.02.301]
 			- Serratus posterior muscles
-				- Serratus posterior inferior
-				- Serratus posterior superior
+				- Serratus posterior inferior [A04.3.01.010]
+				- Serratus posterior superior [A04.3.01.011]
 			- Rhomboid muscles
-				- Rhomboid major
-				- Rhomboid minor
+				- Rhomboid major [A04.3.01.007]
+				- Rhomboid minor [A04.3.01.008]
 			- Superficial
-				- Latissimus dorsi
-				- Trapezius
+				- Latissimus dorsi [A04.3.01.006]
+				- Trapezius [A04.3.01.001]
 		- Medium group
-			- Intertransversarii
-			- Quadratus lumborum
-		- Anterior group
-			- Iliopsoas
-				- Iliacus
-				- Psoas major
-			- Psoas minor
+			- Intertransversarii [A04.3.02.401]
 	- Anterolateral muscles of thorax
 		- Intercostal group
-			- External intercostal muscle
-			- Internal intercostal muscle
-			- Innermost intercostal muscle
+			- External intercostal muscle [A04.4.01.012]
+			- Internal intercostal muscle [A04.4.01.013]
+			- Innermost intercostal muscle [A04.4.01.014]
 		- Deep group
-			- Transversus thoracis
-	- Diaphragm
+			- Transversus thoracis [A04.4.01.016]
+	- Diaphragm [A04.4.02.001]
 - Arteries
 - Veins
 - Viscerae
