@@ -276,6 +276,8 @@
 - Arteries
 - Veins
 - Viscerae
+	- Heart [A12.1.00.001]
+	- Lungs
 ### Abdomen
 ### Pelvis
 ### Upper limb

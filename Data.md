@@ -23580,6 +23580,112 @@
 	- EN: "Heart"
 	- LA: "Cor"
 	- ES: "Corazon"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+			- Surfaces
+				- Anterior
+					- Ventricular segment
+						- Posterior
+							- Aorta
+							- Pulmonary artery
+						- Anterior
+							- Anterior interventricular groove
+					- Atrial segment
+						- Right atrial appendage
+						- Left atrial appendage
+					- Coronary groove
+				- Inferior
+					- Ventricular segment
+						- Posterior inter ventricular groove
+					- Atrial segment
+						- Inferior vena cava
+					- Coronary groove
+				- Lateral
+					- Ventricular segment
+					- Atrial segment
+						- Left atrial appendage
+					- Coronary groove
+			- Base
+				- Interatrial groove
+				- Right segment
+					- Superior vena cava
+					- Inferior vena cava
+					- Venous sinus
+					- Terminal groove
+				- Left segment
+					- Pulmonary veins
+						- Right superior
+						- Right inferior
+						- Left superior
+						- Left inferior
+			- Borders
+				- Right
+				- Superior
+				- Left
+			- Vertex
+		- Conformation
+			- Interventricular septum
+				- Muscular portion
+				- Membranous portion
+					- Atrioventricular septum
+			- Interatrial septum
+				- Oval fossa
+				- Oval fossa valve
+			- Right atrium
+			- Left atrium
+			- Right ventricle
+				- Walls
+					- Anterior
+						- Septomarginal trabecula
+					- Inferior
+					- Medial
+				- Vertex
+				- Base
+					- Right atrioventricular valve
+						- Anterior cusp
+						- Posterior cusp
+						- Septal cusp
+					- Pulmonar valve
+						- Anterior cusp
+						- Right cusp
+						- Left cusp
+			- Left ventricle
+				- Walls
+					- Left
+					- Right
+				- Vertex
+				- Base
+					- Left atrioventricular valve
+						- Anterior cusp
+						- Posterior cusp
+					- Aortic valve
+						- Posterior cusp
+						- Right cusp
+						- Left cusp
+		- Arteries
+			- Left coronary artery
+				- Vascular branches
+				- Circumflex
+				- Atrial branches
+				- Ventricular branches
+					- Left marginal
+			- Right coronary artery
+				- Vascular branches
+				- Atrial branches
+				- Ventricular branches
+					- Right marginal
+		- Veins
+			- Coronary sinus
+				- Vena magna
+					- Anterior interventricular vein
+				- Oblicuos vein from left atrium
+				- Posterior vein from left ventricle
+				- Posterior inter ventricular vein
+				- Minor cardiac vein
+			- Anterior cardiac veins
+			- Minimum cardiac veins
 
 # A12.1.00.002
 - ## Term
