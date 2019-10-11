@@ -14,5 +14,3 @@ You can open the file [**Data.md**](./Data.md) and review details about any part
 ## Author
 
 Mario A Flores, MD - marioandf@gmail.com
-
-
