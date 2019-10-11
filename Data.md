@@ -12712,10 +12712,44 @@
         - Configuration
 			- Broad muscle
         - Conformation
-            - 
+            - Central tendon
+				- Anterior leaflet
+				- Right leaflet
+				- Left leaflet
+				- Caval opening
+			- Muscular part
+				- Lumbar part
+					- Medial part
+						- Right crus
+						- Left crus
+						- Aortic hiatus
+						- Oesophageal hiatus
+					- Lateral part
+						- Origin
+							- Median arcuate ligament
+						- Insertion
+							- Central tendon
+				- Costal part
+					- Origin
+						- Internal face of 6th-12th rib
+					- Insertion
+						- Central tendon
+				- Sternal part
+					- Origin
+						- Xiphoid process
+					- Insertion
+						- Central tendon
         - Arteries
+			- Intercostal artery
+			- Subcostal artery
+			- Superior phrenic artery
+			- Inferior phrenic artery
+			- Musculophrenic artery
         - Nerves
+			- Phrenic nerve
+			- Intercostal nerve
         - Action
+			- Respiration
 
 # A04.4.02.002
 - ## Term
@@ -12728,12 +12762,30 @@
 	- EN: "Right crus"
 	- LA: "Crus dextrum"
 	- ES: "Pilar derecho"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Striated muscle tissue
+		- Conformation
+			- Origin
+				- Body of L2-L4 vertebrae
+			- Insertion
+				- Contralateral body of L2-L4 vertebrae
 
 # A04.4.02.004
 - ## Term
 	- EN: "Left crus"
 	- LA: "Crus sinistrum"
 	- ES: "Pilar izquierdo"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Striated muscle tissue
+		- Conformation
+			- Origin
+				- Body of L2-L3 vertebrae
+			- Insertion
+				- Contralateral body of L2-L3 vertebrae
 
 # A04.4.02.005
 - ## Term
