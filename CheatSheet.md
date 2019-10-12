@@ -58,3 +58,11 @@
 			- Origin
 			- Branches
 			- Supplies
+- ### Lymph vessel
+    - Anatomy
+        - Constitution
+        - Conformation
+            - Origin
+            - Collaterals
+            - Joins
+            - Drains

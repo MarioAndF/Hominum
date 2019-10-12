@@ -16721,6 +16721,31 @@
 	- EN: "Oesophagus"
 	- LA: "Oesophagus"
 	- ES: "Esófago"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+			- Shape
+				- Cylinder
+		- Conformation
+			- Upper opening
+			- Cervical part
+			- Thoracic part
+			- Diaphragmatic part
+			- Abdominal part
+			- Cardias
+		- Arteries
+			- Superior esophageal artery
+			- Median esophageal artery
+			- Inferior esophageal artery
+		- Veins
+			- Inferior thyroid vein
+			- Azygos vein
+			- Pericardiophrenic veins
+			- Left gastric vein
+		- Nerves
+			- Sympathetic trunk
+			- Vagus nerve
 
 # A05.4.01.002
 - ## Term
@@ -19345,6 +19370,19 @@
 	- EN: "Bronchi"
 	- LA: "Bronchi"
 	- ES: "Bronquios"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+			- Shape
+				- Cylinder
+		- Conformation
+		- Arteries
+			- Bronchial branches
+		- Veins
+			- Bronchial veins
+		- Nerves
+			- Pulmonary plexus
 
 # A06.4.01.002
 - ## Term
@@ -19549,18 +19587,126 @@
 	- EN: "Lungs"
 	- LA: "Pulmones"
 	- ES: "Pulmones"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+			- Shape
+				- Half cone
+			- Surfaces
+				- Costal surface
+					- Oblique fissure
+					- Horizontal fissure of right lung
+				- Mediastinal surface
+					- Hilium
+					- Cardiac impression
+			- Vertex
+			- Base
+			- Borders
+				- Anterior
+					- Cardiac notch of left lung
+				- Posterior
+				- Inferior
+		- Conformation
+			- Lobes
+		- Arteries
+			- Pulmonary arteries
+		- Veins
+			- Pulmonary veins
+		- Nerves
+			- Pulmonary plexus
 
 # A06.5.01.002
 - ## Term
 	- EN: "Left lung"
 	- LA: "Pulmo dexter"
 	- ES: "Pulmón izquierdo"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+			- Shape
+				- Half cone
+			- Surfaces
+				- Costal surface
+					- Oblique fissure
+				- Mediastinal surface
+					- Hilium
+					- Cardiac impression
+			- Vertex
+			- Base
+			- Borders
+				- Anterior
+					- Cardiac notch of left lung
+				- Posterior
+				- Inferior
+		- Conformation
+			- Lobes
+				- Superior lobe
+					- Apicoposterior segment
+					- Anterior segment
+				- Inferior lobe
+					- Superior lingular segment
+					- Inferior lingular segment
+					- Superior segment
+					- Medial basal segment
+					- Anterior basal segment
+					- Lateral basal segment
+					- Posterior basal segment
+		- Arteries
+			- Left pulmonary artery
+		- Veins
+			- Left superior pulmonary vein
+			- Left inferior pulmonary vein
+		- Nerves
+			- Pulmonary plexus
 
 # A06.5.01.003
 - ## Term
 	- EN: "Right lung"
 	- LA: "Pulmo sinister"
 	- ES: "Pulmón derecho"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+			- Shape
+				- Half cone
+			- Surfaces
+				- Costal surface
+					- Oblique fissure
+					- Horizontal fissure of right lung
+				- Mediastinal surface
+					- Hilum
+					- Cardiac impression
+			- Vertex
+			- Base
+			- Borders
+				- Anterior
+				- Posterior
+				- Inferior
+		- Conformation
+			- Lobes
+				- Superior lobe
+					- Apical segment
+					- Posterior segment
+					- Anterior segment
+				- Middle lobe
+					- Lateral segment
+					- Medial segment
+				- Inferior lobe
+					- Superior segment
+					- Medial basal segment
+					- Anterior basal segment
+					- Lateral basal segment
+					- Posterior basal segment
+		- Arteries
+			- Right pulmonary artery
+		- Veins
+			- Right superior pulmonary vein
+			- Right inferior pulmonary vein
+		- Nerves
+			- Pulmonary plexus
 
 # A06.5.01.004
 - ## Term
@@ -32103,7 +32249,21 @@
 - ## Term
 	- EN: "Thoracic duct"
 	- LA: "Ductus thoracicus"
-	- ES: 
+	- ES: "Conducto torácico"
+- ## Data
+	- Anatomy
+		- Constitution
+        - Conformation
+            - Origin
+				- Lumbar trunk
+				- Cisterna chyli
+            - Collaterals
+				- Intercostal nodes
+				- Juxta-vertebral nodes
+				- Posterior mediastinal nodes
+            - Joins
+				- Left internal jugular vein
+				- Left subclavian vein
 
 # A12.4.01.008
 - ## Term
@@ -32133,7 +32293,7 @@
 - ## Term
 	- EN: "Cisterna chyli"
 	- LA: "Cisterna chyli"
-	- ES: 
+	- ES: "Cisterna del quilo"
 
 # A12.4.01.013
 - ## Term

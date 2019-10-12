@@ -290,10 +290,12 @@
 	- Thoracic duct [A12.4.01.007]
 - Viscerae
 	- Heart [A12.1.00.001]
-	- Trachea
-	- Bronchii
-	- Lungs
-	- Esophagus
+	- Trachea [A06.3.01.001]
+	- Bronchi [A06.4.01.001]
+	- Lungs [A06.5.01.001]
+		- Right lung [A06.5.01.003]
+		- Left lung [A06.5.01.002]
+	- Esophagus [A05.4.01.001]
 	- Breast
 ### Abdomen
 ### Pelvis
