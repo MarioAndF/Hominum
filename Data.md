@@ -24366,6 +24366,17 @@
 	- EN: "Pulmonary trunk"
 	- LA: "Truncus pulmonalis"
 	- ES: "Tronco pulmonar"
+- ## Data
+	- Anatomy
+        - Constitution
+        - Conformation
+            - Origin
+				- Opening of pulmonary trunk
+            - Collaterals
+				- Ductus arteriosus
+            - Terminals
+				- Right pulmonary artery
+				- Left pulmonary artery
 
 # A12.2.01.002
 - ## Term
@@ -24624,6 +24635,48 @@
 	- EN: "Aorta"
 	- LA: "Aorta"
 	- ES: "Aorta"
+- ## Data
+    - Anatomy
+        - Constitution
+        - Conformation
+            - Origin
+				- Aortic orifice
+            - Segments
+				- Ascending aorta
+				- Arch of aorta
+				- Descending aorta
+					- Thoracic aorta
+					- Abdominal aorta
+			- Collaterals
+				- Ascending aorta segment
+					- Right coronary artery
+					- Left coronary artery
+				- Arch of aorta segment
+					- Brachiocephalic trunk
+					- Left common carotid artery
+					- Left subclavian artery
+				- Thoracic aorta
+					- Visceral
+						- Bronchial branches
+						- Oesophageal branches
+						- Mediastinal branches
+					- Parietal
+						- Posterior intercostal arteries
+				- Abdominal aorta
+					- Visceral
+						- Celiac trunk
+						- Suprarrenal arteries
+						- Renal arteries
+						- Superior mesenteric artery
+						- Inferior mesenteric artery
+						- Gonadal arteries
+					- Parietal
+						- Inferior phrenic arteries
+						- Lumbar arteries
+            - Terminals
+				- Right common iliac artery
+				- Left common iliac artery
+				- Median sacral artery
 
 # A12.2.03.001
 - ## Term
@@ -29404,6 +29457,18 @@
 	- EN: "Right superior pulmonary vein"
 	- LA: "Vena pulmonalis dextra superior"
 	- ES: "Vena pulmonar superior derecha"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Right upper lobe of lung
+				- Right middle lobe of lung
+            - Collaterals
+				- Bronchial veins
+            - Joins
+				- Left atrium
 
 # A12.3.02.102
 - ## Term
@@ -29482,6 +29547,17 @@
 	- EN: "Right inferior pulmonary vein"
 	- LA: "Vena pulmonalis dextra inferior"
 	- ES: "Vena pulmonar inferior derecha"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Right lower lobe of lung
+            - Collaterals
+				- Bronchial veins
+            - Joins
+				- Left atrium
 
 # A12.3.02.202
 - ## Term
@@ -29542,6 +29618,17 @@
 	- EN: "Left superior pulmonary vein"
 	- LA: "Vena pulmonalis sinistra superior"
 	- ES: "Vena pulmonar superior izquierda"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Left upper lobe of lung
+            - Collaterals
+				- Bronchial veins
+            - Joins
+				- Left atrium
 
 # A12.3.02.302
 - ## Term
@@ -29602,6 +29689,17 @@
 	- EN: "Left inferior pulmonary vein"
 	- LA: "Vena pulmonalis sinistra inferior"
 	- ES: "Vena pulmonar inferior izquierda"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Left lower lobe of lung
+            - Collaterals
+				- Bronchial veins
+            - Joins
+				- Left atrium
 
 # A12.3.02.402
 - ## Term
@@ -29662,6 +29760,18 @@
 	- EN: "Superior vena cava"
 	- LA: "Vena cava superior"
 	- ES: "Vena cava superior"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Right brachiocephalic vein
+				- Left brachiocephalic vein
+            - Collaterals
+				- Azygos vein
+            - Joins
+				- Right atrium
 
 # A12.3.04.001
 - ## Term
@@ -30886,6 +30996,26 @@
 	- EN: "Azygos vein"
 	- LA: "Vena azygos"
 	- ES: "Vena ácigos"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Lateral root
+					- Ascending lumbar vein
+				- Medial root
+					- Inferior vena cava
+            - Collaterals
+				- Posterior intercostal veins
+				- Superior intercostal vein
+				- Hemi-azygos vein
+				- Accesory hemi-azygos vein
+				- Esophagic veins
+				- Pericardic veins
+				- Posterior right bronchial vein
+            - Joins
+				- Superior vena cava
 
 # A12.3.07.002
 - ## Term
@@ -31261,6 +31391,23 @@
 	- EN: "Inferior vena cava"
 	- LA: "Vena cava inferior"
 	- ES: "Vena cava inferior"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Right common iliac vein
+				- Left common iliac vein
+            - Collaterals
+				- Lumbar veins
+				- Renal veins
+				- Suprarrenal veins
+				- Gonadal veins
+				- Hepatic veins
+				- Inferior phrenic veins
+            - Joins
+				- Right atrium
 
 # A12.3.09.002
 - ## Term

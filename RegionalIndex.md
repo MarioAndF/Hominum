@@ -274,10 +274,27 @@
 			- Transversus thoracis [A04.4.01.016]
 	- Diaphragm [A04.4.02.001]
 - Arteries
+	- Pulmonary trunk [A12.2.01.001]
+	- Aorta [A12.2.02.001]
 - Veins
+	- Pulmonary veins [A12.3.02.001]
+		- Right superior pulmonary vein [A12.3.02.101]
+		- Right inferior pulmonary vein [A12.3.02.201]
+		- Left superior pulmonary vein [A12.3.02.301]
+		- Left inferior pulmonary vein [A12.3.02.401]
+	- Superior vena cava [A12.3.03.001]
+	- Inferior vena cava [A12.3.09.001]
+	- Azygos vein [A12.3.07.001]
+	- Hemi-azygos vein
+- Lymph
+	- Thoracic duct [A12.4.01.007]
 - Viscerae
 	- Heart [A12.1.00.001]
+	- Trachea
+	- Bronchii
 	- Lungs
+	- Esophagus
+	- Breast
 ### Abdomen
 ### Pelvis
 ### Upper limb
