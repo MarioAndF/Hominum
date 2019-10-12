@@ -48286,6 +48286,37 @@
 	- EN: "Breast"
 	- LA: "Mamma"
 	- ES: "Mama"
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+			- Shape
+				- Hemisphere
+			- Surface
+				- Anterior
+					- Nipple
+					- Areola
+		- Conformation
+			- Skin
+				- Nipple
+				- Areola
+					- Areolar tubercles
+			- Mammary gland
+		- Arteries
+			- Medial mammary branches
+			- Lateral mammary branches
+		- Veins
+			- Areolar venous plexus
+			- Lateral thoracic vein
+			- Internal thoracic vein
+			- Posterior intercostal veins
+		- Lymph
+			- Axillary nodes
+			- Supraclavicular nodes
+			- Parasternal nodes
+		- Nerves
+			- Supraclavicular nerves
+			- 2nd-5th intercostal nerves
 
 # A16.0.02.002
 - ## Term
