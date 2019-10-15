@@ -372,6 +372,14 @@
 	- EN: "Thorax"
 	- LA: "Thorax"
 	- ES: "Tórax"
+- ## Data
+	- Diseases
+		- Thoracic trauma
+	- Procedures
+		- Trauma thoracotomy
+		- Resucitative thoracotomy
+		- Tube thoracostomy
+		- Subxyphoid pericardiotomy
 
 # A01.1.00.015
 - ## Term
