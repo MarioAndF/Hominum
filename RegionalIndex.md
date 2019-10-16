@@ -1,7 +1,7 @@
 # Human body
 ## Regions
 ### Head
-- ### Cranium
+- #### Cranium
 	- Skeleton
 		- Vault
 			- Frontal bone
@@ -39,7 +39,7 @@
 			- Vagus nerve (X)
 			- Accessory nerve (XI)
 			- Hypoglosseal nerve (XII)
-- ### Face
+- #### Face
 	- Skeleton
 		- Upper jaw
 			- Maxillary bones
