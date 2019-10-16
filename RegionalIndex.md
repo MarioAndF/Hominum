@@ -323,12 +323,12 @@
 				- Latissimus dorsi [A04.3.01.006]
 		- Medium group
 			- Intertransversarii [A04.3.02.401]
-			- Quadratus lumborum
+			- Quadratus lumborum [A04.5.01.027]
 		- Anterior group
-			- Iliopsoas
-				- Psoas major
-				- Iliacus
-			- Psoas minor
+			- Iliopsoas [A04.7.02.002]
+				- Psoas major [A04.7.02.004]
+				- Iliacus [A04.7.02.003]
+				- Psoas minor [A04.7.02.005]
 	- Anterolateral muscles of thorax
 		- Intercostal group
 			- External intercostal muscle [A04.4.01.012]
@@ -338,11 +338,11 @@
 			- Transversus thoracis [A04.4.01.016]
 	- Diaphragm [A04.4.02.001]
 	- Anterolateral muscles of abdomen
-		- Rectus abdominis
-		- Pyramidalis
-		- External oblique
-		- Internal oblique
-		- Transversus abdominis
+		- Rectus abdominis [A04.5.01.001]
+		- Pyramidalis [A04.5.01.007]
+		- External oblique [A04.5.01.008]
+		- Internal oblique [A04.5.01.017]
+		- Transversus abdominis [A04.5.01.019]
 - Arteries
 - Veins
 - Lymph

@@ -1,4 +1,4 @@
-- ### General organ
+- ## Organ
     - Anatomy
         - Constitution
         - Configuration
@@ -7,18 +7,18 @@
         - Veins
         - Lymph
         - Nerves
-- ### Bones
+- ## Bones
     - Anatomy
         - Constitution
         - Configuration
         - Conformation
-- ### Joints
+- ## Joints
     - Anatomy
         - Configuration
         - Conformation
             - Surfaces
             - Binding tissue
-- ### Muscles
+- ## Muscles
     - Anatomy
         - Constitution
         - Configuration
@@ -28,13 +28,13 @@
         - Arteries
         - Nerves
         - Action
-- ### Fascias
+- ## Fascias
     - Anatomy
         - Constitution
         - Conformation
             - Attachments
             - Contents
-- ### Arteries
+- ## Arteries
     - Anatomy
         - Constitution
         - Conformation
@@ -43,7 +43,7 @@
             - Terminals
         - Supplies
         - Segments
-- ### Veins
+- ## Veins
     - Anatomy
         - Constitution
         - Conformation
@@ -51,14 +51,14 @@
             - Collaterals
             - Joins
             - Drains
-- ### Nerves
+- ## Nerves
     - Anatomy
         - Constitution
 		- Conformation
 			- Origin
 			- Branches
 			- Supplies
-- ### Lymph vessel
+- ## Lymph vessel
     - Anatomy
         - Constitution
         - Conformation

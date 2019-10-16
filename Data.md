@@ -12953,6 +12953,29 @@
 	- EN: "Rectus abdominis"
 	- LA: "M. rectus abdominis"
 	- ES: "Músculo recto abdominal"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+			- Origin
+				- Pubis
+			- Insertion
+				- 5th-6th costal artilage
+			- Tendinous intesections
+			- Linea alba
+			- Rectus sheath
+				- Anterior layer
+				- Posterior layer
+				- Arcuate line
+        - Arteries
+			- Inferior epigastric artery
+        - Nerves
+			- Thoracoabdominal nerves
+        - Action
+			- Flexion of trunk
 
 # A04.5.01.002
 - ## Term
@@ -12989,12 +13012,57 @@
 	- EN: "Pyramidalis"
 	- LA: "M. pyramidalis"
 	- ES: "Músculo piramidal"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Short muscle
+        - Conformation
+			- Origin
+				- Pubis
+			- Insertion
+				- Linea alba
+        - Arteries
+			- Inferior epigastric artery
+        - Nerves
+			- Subcostal nerve
+        - Action
+			- Tension of linea alba
 
 # A04.5.01.008
 - ## Term
 	- EN: "External oblique"
 	- LA: "M. obliquus externus abdominis"
 	- ES: "Músculo oblicuo externo del abdomen"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+			- Origin
+				- 4th-12th ribs
+			- Insertion
+				- Linea alba
+				- Pubis
+					- Lateral crus
+					- Medial crus
+					- Reflected ligament
+					- Superficial inguinal ring
+				- Inguinal ligament
+					- Lacunal ligament
+					- Pectineal ligament
+				- Iliac crest
+        - Arteries
+			- Intercostal arteries
+			- Deep circumflex iliac artery
+        - Nerves
+			- Intercostal nerves T5-T11
+			- Subcostal nerve
+        - Action
+			- Compression of abdominal cavity
 
 # A04.5.01.009
 - ## Term
@@ -13049,6 +13117,36 @@
 	- EN: "Internal oblique"
 	- LA: "M. obliquus internus abdominis"
 	- ES: "Músculo oblicuo interno abdominal"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+			- Origin
+				- Inguinal ligament
+				- Iliac crest
+				- Thoracolumbar fascia
+			- Insertion
+				- Posterior fibers
+					- 8th-12th ribs
+				- Medium fibers
+					- Internal oblique aponeurosis
+						- Anterior layer
+						- Posterior layer
+						- Linea alba
+				- Inferior fibers
+					- Inguinal falx
+						- Pubic tubercle
+        - Arteries
+			- Subcostal arteries
+        - Nerves
+			- Intercostal nerves T7-T12
+			- Ilioinguinal nerve
+			- Iliohypogastric nerve
+        - Action
+			- Compression of abdominal cavity
 
 # A04.5.01.018
 - ## Term
@@ -13061,6 +13159,33 @@
 	- EN: "Transversus abdominis"
 	- LA: "M. transversus abdominis"
 	- ES: "Músculo transverso del abdomen"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+			- Origin
+				- 6th-12th ribs
+				- Costal process of lumbar vertebrae
+				- Iliac crest
+			- Insertion
+				- Transversus abdominis aponeurosis
+				- Inguinal falx
+					- Pubic tubercle
+				- Deep inguinal ring
+        - Arteries
+			- Posterior intercostal arteries
+			- Subcostal artery
+			- Superior epigastric artery
+			- Inferior epigastric artery
+			- Deep circumflex iliac artery
+			- Posterior lumbar arteries
+        - Nerves
+			- Anterior rami of spinal nerves T7-L1
+        - Action
+			- Compression of abdominal cavity
 
 # A04.5.01.020
 - ## Term
@@ -13109,6 +13234,32 @@
 	- EN: "Quadratus lumborum"
 	- LA: "M. quadratus lumborum"
 	- ES: "Músculo cuadrado lumbar"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Broad muscle
+        - Conformation
+            - Iliotransverse
+				- Origin
+					- Iliac crest
+				- Insertion
+					- 12th rib
+			- Iliocostal
+				- Origin
+					- Iliac crest
+				- Insertion
+					- Costal process of lumbar vertebrae
+			- Costotransverse
+				- Origin
+					- 12th rib
+				- Insertion
+					- Costal process of lumbar vertebrae
+        - Arteries
+			- Lumbar artery
+        - Nerves
+        - Action
 
 # A04.5.02.001
 - ## Term
@@ -14122,24 +14273,91 @@
 	- EN: "Iliopsoas"
 	- LA: "M. iliopsoas"
 	- ES: "Músculo iliopsoas"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Psoas major
+			- Iliacus
+        - Arteries
+        - Nerves
+        - Action
 
 # A04.7.02.003
 - ## Term
 	- EN: "Iliacus"
 	- LA: "M. iliacus"
 	- ES: "Músculo iliaco"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Iliac fossa
+				- Iliolumbar ligament
+			- Insertion
+				- Lesser trochanter
+        - Arteries
+			- Medial femoral circumflex artery
+			- Iliolumbar artery
+        - Nerves
+			- Femoral nerve
+        - Action
+			- Flexor of hip
 
 # A04.7.02.004
 - ## Term
 	- EN: "Psoas major"
 	- LA: "M. psoas major"
 	- ES: "Músculo psoas mayor"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Body of vertebrae T12-L5
+				- Intervertebral discs T12-L5
+				- Costal process of lumbar vertebrae
+			- Insertion
+				- Lesser trochanter
+       - Arteries
+			- Iliolumbar artery
+        - Nerves
+			- Lumbar plexus
+        - Action
+			- Flexor of hip
 
 # A04.7.02.005
 - ## Term
 	- EN: "(Psoas minor)"
 	- LA: "(M. psoas minor)"
 	- ES: "(Músculo psoas menor)"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Body of vertebra T12
+			- Insertion
+				- Iliopubic eminence
+       - Arteries
+			- Iliolumbar artery
+        - Nerves
+			- Lumbar plexus
+        - Action
+			- Flexor of hip
 
 # A04.7.02.006
 - ## Term
