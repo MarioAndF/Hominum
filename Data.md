@@ -5154,7 +5154,6 @@
 			- Superior articular process
 			- Inferior articular process
 			- Transverse process
-				- Foramen transversarium
 				- Transverse costal facet
 			- Spinous process
 			- Laminae
@@ -5187,9 +5186,37 @@
 
 # A02.2.04.001
 - ## Term
-	- EN: "Lumbar vertebrae (L I-L V)"
-	- LA: "Vertebrae lumbales (L I-L V)"
+	- EN: "Lumbar vertebrae (LI-LV)"
+	- LA: "Vertebrae lumbales (LI-LV)"
 	- ES: "Vértebras lumbares (LI-LV)"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Bone tissue
+		- Configuration
+		- Conformation
+			- Figure
+				- Cylinder
+			- Views
+				- Superior
+				- Inferior
+				- Anterior
+				- Posterior
+				- Lateral
+		- Conformation
+			- Body
+				- Intervertebral facet
+				- Superior costal facet
+				- Inferior costal facet
+			- Superior articular process
+				- Mammillary process
+			- Inferior articular process
+			- Costal process
+			- Spinous process
+			- Laminae
+			- Pedicles
+			- Vertebral foramen
+			- Accesory process
 
 # A02.2.04.002
 - ## Term
@@ -5220,6 +5247,31 @@
 	- EN: "Sacrum (sacral vertebrae I-V)"
 	- LA: "Os sacrum (vertebrae sacrales I-V)"
 	- ES: "Vértebras sacras (I-V)"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Bone tissue
+		- Configuration
+			- Shape
+				- Quadrangular pyramid
+			- Surfaces
+				- Anterior
+				- Posterior
+				- Lateral
+				- Base
+				- Vertex
+		- Conformation
+			- Sacral vertebrae
+			- Ala
+			- Sacral canal
+			- Anterior sacral foramina
+			- Median sacral crest
+			- Sacral cornu
+			- Sacral hiatus
+			- Posterior sacral foramina
+			- Intermediate sacral crest
+			- Lateral sacral crest
+			- Superior articular process
 
 # A02.2.05.002
 - ## Term
@@ -5346,6 +5398,23 @@
 	- EN: "Coccyx (coccygeal vertebrae I-IV)"
 	- LA: "Os coccygis"
 	- ES: "Coxis"
+- ## Data
+	- Anatomy
+		- Constitution
+			- Bone tissue
+		- Configuration
+			- Shape
+				- Triangle
+			- Surfaces
+				- Anterior
+				- Posterior
+			- Borders
+				- Lateral
+			- Vertex
+			- Base
+		- Conformation
+			- Base
+			- Coccygeal cornu
 
 # A02.2.06.002
 - ## Term
@@ -11792,6 +11861,29 @@
         - Constitution
 			- Striated muscle tissue
         - Configuration
+			- Long muscle
+        - Conformation
+            - Origin
+				- Spinous process T10-L3 vertebrae
+            - Insertion
+				- 8th-12th rib
+        - Arteries
+			- Intercostal arteries
+        - Nerves
+			- Intercostal nerves
+        - Action
+			- Depression of ribs
+
+# A04.3.01.011
+- ## Term
+	- EN: "Serratus posterior superior"
+	- LA: "M. serratus posterior superior"
+	- ES: "Músculo serrato posterior superior"
+- ## Data
+    - Anatomy
+        - Constitution
+			- Striated muscle tissue
+        - Configuration
 			- Broad muscle
         - Conformation
             - Origin
@@ -11805,29 +11897,6 @@
 			- Intercostal nerves
         - Action
 			- Elevation of ribs
-
-# A04.3.01.011
-- ## Term
-	- EN: "Serratus posterior superior"
-	- LA: "M. serratus posterior superior"
-	- ES: "Músculo serrato posterior superior"
-- ## Data
-    - Anatomy
-        - Constitution
-			- Striated muscle tissue
-        - Configuration
-			- Long muscle
-        - Conformation
-            - Origin
-				- Spinous process T10-L3 vertebrae
-            - Insertion
-				- 8th-12th rib
-        - Arteries
-			- Intercostal arteries
-        - Nerves
-			- Intercostal nerves
-        - Action
-			- Depression of ribs
 
 # A04.3.01.012
 - ## Term

@@ -1,7 +1,7 @@
 # Human body
 ## Regions
 ### Head
-- Cranium
+- ### Cranium
 	- Skeleton
 		- Vault
 			- Frontal bone
@@ -39,7 +39,7 @@
 			- Vagus nerve (X)
 			- Accessory nerve (XI)
 			- Hypoglosseal nerve (XII)
-- Face
+- ### Face
 	- Skeleton
 		- Upper jaw
 			- Maxillary bones
@@ -298,6 +298,66 @@
 	- Esophagus [A05.4.01.001]
 	- Breast [A16.0.02.001]
 ### Abdomen
+- Skeleton
+	- Vertebral column
+		- Lumbar vertebrae [A02.2.04.001]
+		- Sacrum [A02.2.05.001]
+	- Pelvis
+		- Hip bones
+- Joints
+- Muscles
+	- Muscles of the back
+		- Posterior group
+			- Erector spinae muscles
+				- Transversospinales [A04.3.02.201]
+					- Multifidus [A04.3.02.202]
+					- Semispinalis [A04.3.02.206]
+					- Rotatores [A04.3.02.210]
+				- Longissimus [A04.3.02.010]
+				- Iliocostalis [A04.3.02.005]
+				- Spinalis [A04.3.02.015]
+				- Interspinales [A04.3.02.301]
+			- Serratus posterior muscles
+				- Serratus posterior inferior [A04.3.01.010]
+			- Superficial
+				- Latissimus dorsi [A04.3.01.006]
+		- Medium group
+			- Intertransversarii [A04.3.02.401]
+			- Quadratus lumborum
+		- Anterior group
+			- Iliopsoas
+				- Psoas major
+				- Iliacus
+			- Psoas minor
+	- Anterolateral muscles of thorax
+		- Intercostal group
+			- External intercostal muscle [A04.4.01.012]
+			- Internal intercostal muscle [A04.4.01.013]
+			- Innermost intercostal muscle [A04.4.01.014]
+		- Deep group
+			- Transversus thoracis [A04.4.01.016]
+	- Diaphragm [A04.4.02.001]
+	- Anterolateral muscles of abdomen
+		- Rectus abdominis
+		- Pyramidalis
+		- External oblique
+		- Internal oblique
+		- Transversus abdominis
+- Arteries
+- Veins
+- Lymph
+- Viscerae
 ### Pelvis
+- Skeleton
+	- Pelvis
+		- Hip bones
+		- Sacrum [A02.2.05.001]
+		- Coccyx [A02.2.06.001]
+- Joints
+- Muscles
+- Arteries
+- Veins
+- Lymph
+- Viscerae
 ### Upper limb
 ### Lower limb
