@@ -42,7 +42,6 @@
             - Collaterals
             - Terminals
         - Supplies
-        - Segments
 - ## Veins
     - Anatomy
         - Constitution

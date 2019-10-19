@@ -344,7 +344,22 @@
 		- Internal oblique [A04.5.01.017]
 		- Transversus abdominis [A04.5.01.019]
 - Arteries
+	- Aorta [A12.2.02.001]
+		- Inferior phrenic artery [A12.2.12.002]
+		- Lumbar arteries [A12.2.12.004]
+		- Coeliac trunk [A12.2.12.012]
+		- Middle suprarrenal arteries [A12.2.12.074]
+		- Renal arteries [A12.2.12.075]
+		- Superior mesenteric artery [A12.2.12.053]
+		- Inferior mesenteric artery [A12.2.12.069]
+		- Gonadal arteries [A12.2.12.086]
+		- Common iliac artery [A12.2.14.001]
+			- Internal iliac artery [A12.2.15.001]
+			- External iliac artery [A12.2.16.002]
+		- Median sacral artery [A12.2.12.008]
 - Veins
+	- Inferior vena cava
+	- Porta
 - Lymph
 - Viscerae
 ### Pelvis
