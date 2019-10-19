@@ -358,9 +358,14 @@
 			- External iliac artery [A12.2.16.002]
 		- Median sacral artery [A12.2.12.008]
 - Veins
-	- Inferior vena cava
-	- Porta
+	- Inferior vena cava [A12.3.09.001]
+	- Hepatic portal vein [A12.3.12.001]
+		- Superior mesenteric vein [A12.3.12.018]
+		- Splenic vein [A12.3.12.028]
+		- Inferior mesenteric vein [A12.3.12.032]
 - Lymph
+	- Lumbar trunk [A12.4.01.013]
+	- Cisterna chyli [A12.4.01.012]
 - Viscerae
 ### Pelvis
 - Skeleton

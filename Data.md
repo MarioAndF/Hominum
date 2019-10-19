@@ -39044,6 +39044,18 @@
 	- ES: "Vena porta hepatica"
 - ## Definition
 	- "a portal vein carrying blood from the digestive organs and spleen to the liver where the nutrients carried by the blood are altered by hepatocytes before passing into the systemic circulation" - (Mirriam-Webster Dictionary)
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Superior mesenteric vein
+				- Splenic vein
+				- Inferior mesenteric vein
+            - Collaterals
+            - Joins
+				- Liver
 
 # A12.3.12.002
 - ## Term
@@ -39164,7 +39176,24 @@
 	- LA: "Vena mesenterica superior"
 	- ES: "Vena mesentérica superto"
 - ## Definition
-	- "mesenteric vein" - (Mirriam-Webster Dictionary)
+	- "one that drains blood from the small intestine, the cecum, the ascending colon, and the transverse colon, that accompanies the superior mesenteric artery, and that joins with the splenic vein to form the portal vein" - (Mirriam-Webster Dictionary)
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Mesentery
+            - Collaterals
+				- Jejunal veins
+				- Ileal veins
+				- Right gastro-omental vein
+				- Pancreaticoduodenal veins
+				- Ileocolic vein
+				- Right colic vein
+				- Middle colic vein
+            - Joins
+				- Hepatic portal vein
 
 # A12.3.12.019
 - ## Term
@@ -39236,6 +39265,19 @@
 	- ES: "V. esplénica"
 - ## Definition
 	- "the vein that carries blood away from the spleen, that is formed by five or six large branches which unite a short distance from the spleen, and that joins the superior mesenteric vein to form the portal vein —called also lienal vein" - (Mirriam-Webster Dictionary)
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Hilum of spleen
+            - Collaterals
+				- Pancreatic veins
+				- Left gastro-omental vein
+				- Short gastric veins
+            - Joins
+				- Hepatic portal vein
 
 # A12.3.12.029
 - ## Term
@@ -39264,7 +39306,20 @@
 	- LA: "V. mesenterica inferior"
 	- ES: 
 - ## Definition
-	- "mesenteric vein" - (Mirriam-Webster Dictionary)
+	- "one that is a continuation of the superior rectal vein, that returns blood from the rectum, the sigmoid colon, and the descending colon, that accompanies the inferior mesenteric artery, and that usually empties into the splenic vein" - (Mirriam-Webster Dictionary)
+- ## Data
+	- Anatomy
+		- Constitution
+		- Configuration
+		- Conformation
+			- Origin
+				- Superior rectal veins
+            - Collaterals
+				- Left colic vein
+				- Sigmoid veins
+            - Joins
+				- Splenic vein
+				- Hepatic portal vein
 
 # A12.3.12.033
 - ## Term
@@ -39338,6 +39393,8 @@
 	- EN: "Thoracic duct"
 	- LA: "Ductus thoracicus"
 	- ES: "Conducto torácico"
+- ## Definition
+	- "the main trunk of the system of lymphatic vessels that lies along the front of the spinal column, extends from a dilatation behind the aorta and opposite the second lumbar vertebra up through the thorax where it turns to the left and opens into the left subclavian vein, and receives chyle from the intestine and lymph from the abdomen, the lower limbs, and the entire left side of the body —called also left lymphatic duct" - (Mirriam-Webster Dictionary)
 - ## Data
 	- Anatomy
 		- Constitution
@@ -39352,8 +39409,6 @@
             - Joins
 				- Left internal jugular vein
 				- Left subclavian vein
-- ## Definition
-	- "the main trunk of the system of lymphatic vessels that lies along the front of the spinal column, extends from a dilatation behind the aorta and opposite the second lumbar vertebra up through the thorax where it turns to the left and opens into the left subclavian vein, and receives chyle from the intestine and lymph from the abdomen, the lower limbs, and the entire left side of the body —called also left lymphatic duct" - (Mirriam-Webster Dictionary)
 
 # A12.4.01.008
 - ## Term
@@ -39390,6 +39445,15 @@
 	- ES: "Cisterna del quilo"
 - ## Definition
 	- "a dilated lymph channel usually opposite the first and second lumbar vertebrae and marking the beginning of the thoracic duct" - (Mirriam-Webster Dictionary)
+- ## Data
+	- Anatomy
+		- Constitution
+        - Conformation
+            - Origin
+				- Lumbar trunks
+            - Collaterals
+            - Joins
+				- Thoracic duct
 
 # A12.4.01.013
 - ## Term
@@ -39397,6 +39461,24 @@
 	- LA: "Truncus lumbalis"
 	- ES: 
 - ## Definition
+- ## Data
+	- Anatomy
+		- Constitution
+        - Conformation
+            - Origin
+				- Lumbar lymph nodes
+            - Collaterals
+				- Common iliac lymph nodes
+				- Testicle lymph nodes
+				- Ovaric lymph nodes
+				- Kidney lymph nodes
+				- Suprarenal lymph nodes
+				- Liver lymph nodes
+				- Posterior abdominal wall lymph nodes
+				- Uterine lymph nodes
+            - Joins
+				- Cisterna chyli
+				- Thoracic duct
 
 # A12.4.01.014
 - ## Term
