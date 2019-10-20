@@ -587,7 +587,7 @@
 	- LA: "Manus"
 	- ES: "Mano"
 - ## Definition
-	- "the terminal part of the vertebrate forelimb when modified (as in humans) as a grasping organ","the forelimb segment (as the terminal section of a bird\u0027s wing) of a vertebrate higher than the fishes that corresponds to the hand irrespective of its form or functional specialization","a part serving the function of or resembling a hand; especially : the hind foot of an ape" - (Mirriam-Webster Dictionary)
+	- "the terminal part of the vertebrate forelimb when modified (as in humans) as a grasping organ","the forelimb segment (as the terminal section of a bird's wing) of a vertebrate higher than the fishes that corresponds to the hand irrespective of its form or functional specialization","a part serving the function of or resembling a hand; especially : the hind foot of an ape" - (Mirriam-Webster Dictionary)
 
 # A01.1.00.026
 - ## Term
@@ -785,7 +785,7 @@
 	- LA: "Digiti pedis"
 	- ES: "Dedos de los pies"
 - ## Definition
-	- "one of the terminal members of a vertebrate\u0027s foot" - (Mirriam-Webster Dictionary)
+	- "one of the terminal members of a vertebrate's foot" - (Mirriam-Webster Dictionary)
 
 # A01.1.00.058
 - ## Term
@@ -1768,7 +1768,7 @@
 	- LA: "Trigonum femoris"
 	- ES: "Triángulo femoral"
 - ## Definition
-	- "an area in the upper anterior part of the thigh bounded by the inguinal ligament, the sartorius, and the adductor longus —called also femoral trigone, Scarpa\u0027s triangle" - (Mirriam-Webster Dictionary)
+	- "an area in the upper anterior part of the thigh bounded by the inguinal ligament, the sartorius, and the adductor longus —called also femoral trigone, Scarpa's triangle" - (Mirriam-Webster Dictionary)
 
 # A01.2.08.009
 - ## Term
@@ -5909,7 +5909,7 @@
 	- LA: "Lamina arcus vertebrae"
 	- ES: "Lámina"
 - ## Definition
-	- "a thin plate or layer especially of an anatomical part: as","either of two broad, flat plates of bone of a vertebra that is fused with and extends from the pedicle to the median line of the neural arch to form the base of the spinous process and that along with the pedicle forms the posterior part of the vertebral foramen","one of the narrow thin parallel plates of soft vascular sensitive tissue that cover the pododerm of the walls of an animal\u0027s hoof and fit between corresponding horny laminae on the inside of the wall of the hoof" - (Mirriam-Webster Dictionary)
+	- "a thin plate or layer especially of an anatomical part: as","either of two broad, flat plates of bone of a vertebra that is fused with and extends from the pedicle to the median line of the neural arch to form the base of the spinous process and that along with the pedicle forms the posterior part of the vertebral foramen","one of the narrow thin parallel plates of soft vascular sensitive tissue that cover the pododerm of the walls of an animal's hoof and fit between corresponding horny laminae on the inside of the wall of the hoof" - (Mirriam-Webster Dictionary)
 
 # A02.2.01.008
 - ## Term
@@ -8565,7 +8565,7 @@
 	- LA: "Femur"
 	- ES: "Fémur"
 - ## Definition
-	- "the proximal bone of the hind or lower limb that is the longest and largest bone in the human body, extends from the hip to the knee, articulates above with the acetabulum by a rounded head connected with the shaft of the bone by an oblique neck bearing a pair of trochanters for the attachment of muscles, and articulates with the tibia below by a pair of condyles —called also thigh bone","the segment of an insect\u0027s leg that is third from the body" - (Mirriam-Webster Dictionary)
+	- "the proximal bone of the hind or lower limb that is the longest and largest bone in the human body, extends from the hip to the knee, articulates above with the acetabulum by a rounded head connected with the shaft of the bone by an oblique neck bearing a pair of trochanters for the attachment of muscles, and articulates with the tibia below by a pair of condyles —called also thigh bone","the segment of an insect's leg that is third from the body" - (Mirriam-Webster Dictionary)
 
 # A02.5.04.002
 - ## Term
@@ -10503,7 +10503,7 @@
 	- LA: "Lig. sphenomandibulare"
 	- ES: "Ligamento esfenomandibular"
 - ## Definition
-	- "a flat thin band of fibrous tissue derived from Meckel\u0027s cartilage which extends downward from the sphenoid bone to the lingula of the mandibular foramen" - (Mirriam-Webster Dictionary)
+	- "a flat thin band of fibrous tissue derived from Meckel's cartilage which extends downward from the sphenoid bone to the lingula of the mandibular foramen" - (Mirriam-Webster Dictionary)
 
 # A03.1.07.008
 - ## Term
@@ -12514,7 +12514,7 @@
 	- LA: "Venter"
 	- ES: "Vientre"
 - ## Definition
-	- "abdomen","the undersurface of an animal\u0027s body","womb, uterus" - (Mirriam-Webster Dictionary)
+	- "abdomen","the undersurface of an animal's body","womb, uterus" - (Mirriam-Webster Dictionary)
 
 # A04.0.00.003
 - ## Term
@@ -15644,7 +15644,7 @@
 	- LA: "Lig. inguinale"
 	- ES: "Ligamento inguinal"
 - ## Definition
-	- "the thickened lower border of the aponeurosis of the external oblique muscle of the abdomen that extends from the anterior superior iliac spine to the pubic tubercle, is continuous with the fascia lata near the thigh, and forms the external pillar of the superficial inguinal ring and a part of the anterior boundary of the femoral ring —called also Poupart\u0027s ligament" - (Mirriam-Webster Dictionary)
+	- "the thickened lower border of the aponeurosis of the external oblique muscle of the abdomen that extends from the anterior superior iliac spine to the pubic tubercle, is continuous with the fascia lata near the thigh, and forms the external pillar of the superficial inguinal ring and a part of the anterior boundary of the femoral ring —called also Poupart's ligament" - (Mirriam-Webster Dictionary)
 
 # A04.5.01.010
 - ## Term
@@ -17798,7 +17798,7 @@
 	- LA: "Trigonum femorale"
 	- ES: "Triángulo femoral"
 - ## Definition
-	- "an area in the upper anterior part of the thigh bounded by the inguinal ligament, the sartorius, and the adductor longus —called also femoral trigone, Scarpa\u0027s triangle" - (Mirriam-Webster Dictionary)
+	- "an area in the upper anterior part of the thigh bounded by the inguinal ligament, the sartorius, and the adductor longus —called also femoral trigone, Scarpa's triangle" - (Mirriam-Webster Dictionary)
 
 # A04.7.03.014
 - ## Term
@@ -18938,7 +18938,7 @@
 	- LA: "Ductus parotideus"
 	- ES: "Conducto parotídeo"
 - ## Definition
-	- "the duct of the parotid gland opening on the inner surface of the cheek opposite the second upper molar tooth —called also Stensen\u0027s duct" - (Mirriam-Webster Dictionary)
+	- "the duct of the parotid gland opening on the inner surface of the cheek opposite the second upper molar tooth —called also Stensen's duct" - (Mirriam-Webster Dictionary)
 
 # A05.1.02.008
 - ## Term
@@ -18968,7 +18968,7 @@
 	- LA: "Glandula submandibularis"
 	- ES: "Glándula submandibular"
 - ## Definition
-	- "a salivary gland inside of and near the lower edge of the mandible on each side and discharging by Wharton\u0027s duct into the mouth under the tongue —called also mandibular gland, submandibular salivary gland, submaxillary gland, submaxillary salivary gland" - (Mirriam-Webster Dictionary)
+	- "a salivary gland inside of and near the lower edge of the mandible on each side and discharging by Wharton's duct into the mouth under the tongue —called also mandibular gland, submandibular salivary gland, submaxillary gland, submaxillary salivary gland" - (Mirriam-Webster Dictionary)
 
 # A05.1.02.012
 - ## Term
@@ -20584,6 +20584,53 @@
 	- ES: "Estómago"
 - ## Definition
 	- "a saclike expansion of the digestive tract of a vertebrate communicating anteriorly with the esophagus and posteriorly with the duodenum and being typically a simple often curved sac with an outer serous coat, a strong complex muscular wall that contracts rhythmically, and a mucous lining membrane that contains gastric glands","one of the compartments of a ruminant stomach","a cavity in an invertebrate animal that is analogous to a stomach" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- External
+				- Surfaces
+					- Anterior
+					- Posterior
+				- Borders
+					- Lesser curvature
+					- Greater curvature
+			- Internal
+				- Cardial orifice
+				- Pyloric orifice
+				- Gastric folds
+				- Gastric areas
+				- Pyloric sphincter
+        - Conformation
+			- Descendent part
+				- Cardias
+				- Fundus of stomach
+				- Body of stomach
+				- Cardial notch
+			- Pyloric part
+				- Pyloric antrum
+				- Pylorus
+        - Arteries
+			- Left gastric artery
+			- Right gastric artery
+			- Left gastro-epiploic artery
+			- Right gastro-epiploic artery
+			- Short gastric arteries
+        - Veins
+			- Left gastric vein
+			- Right gastric vein
+			- Left gastro-epiploic vein
+			- Right gastro-epiploic vein
+			- Short gastric vein
+        - Lymph
+			- Left gastric lymph nodes
+			- Splenic lymph nodes
+			- Hepatic lymph nodes
+        - Nerves
+			- Parasympathetic
+				- Vagus nerve (CN X)
+			- Sympathetic
+				- Celiac plexus (T5-T12)
 
 # A05.5.01.002
 - ## Term
@@ -20827,6 +20874,26 @@
 	- ES: "Intestino delgado"
 - ## Definition
 	- "the part of the intestine that lies between the stomach and colon, consists of duodenum, jejunum, and ileum, secretes digestive enzymes, and is the chief site of the absorption of digested nutrients —called also small bowel" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- Duodenum
+			- Jejunum
+			- Ileum
+        - Arteries
+        - Veins
+        - Lymph
+        - Nerves
 
 # A05.6.01.002
 - ## Term
@@ -20931,6 +20998,57 @@
 	- ES: "Duodeno"
 - ## Definition
 	- "the first, shortest, and widest part of the small intestine that in humans is about 10 inches (25 centimeters) long and that extends from the pylorus to the undersurface of the liver where it descends for a variable distance and receives the bile and pancreatic ducts and then bends to the left and finally upward to join the jejunum near the second lumbar vertebra" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tubular ring
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- External
+				- Superior part
+					- Ampulla
+					- Superior duodenal flexure
+				- Descending part
+					- Inferior duodenal flexure
+				- Inferior part
+				- Ascending part
+					- Duodenojejunal flexure
+			- Internal
+				- Circular folds
+				- Major duodenal papilla
+				- Minor duodenal papilla
+        - Arteries
+			- Anterior superior pancreaticoduodenal artery
+			- Posterior superior pancreaticoduodenal artery
+			- Anterior inferior pancreaticoduodenal artery
+			- Posterior inferior pancreaticoduodenal artery
+			- First jejunal artery
+			- Supraduodenal artery
+			- Subpyloric artery
+        - Veins
+			- Anterior superior pancreaticoduodenal vein
+			- Posterior superior pancreaticoduodenal vein
+			- Anterior inferior pancreaticoduodenal vein
+			- Posterior inferior pancreaticoduodenal vein
+			- First jejunal vein
+			- Supraduodenal vein
+			- Subpyloric vein
+        - Lymph
+			- Superior pancreaticoduodenal lymph nodes
+			- Inferior pancreaticoduodenal lymph nodes
+        - Nerves
+			- Vagus nerve
+			- Superior mesenteric plexus
+			- Celiac ganglia
 
 # A05.6.02.002
 - ## Term
@@ -20945,7 +21063,6 @@
 	- LA: "Ampulla"
 	- ES: "Ampolla"
 - ## Definition
-	- "a saccular anatomic swelling or pouch: as","the dilatation containing a patch of sensory epithelium at one end of each semicircular canal of the ear","one of the dilatations of the lactiferous tubules of the mammary glands that serve as reservoirs for milk" - (Mirriam-Webster Dictionary)
 
 # A05.6.02.004
 - ## Term
@@ -21044,7 +21161,7 @@
 	- LA: "Glandulae duodenales"
 	- ES: "Glándulas duodenales"
 - ## Definition
-	- "brunner\u0027s gland" - (Mirriam-Webster Dictionary)
+	- "brunner's gland" - (Mirriam-Webster Dictionary)
 
 # A05.6.03.001
 - ## Term
@@ -21052,7 +21169,30 @@
 	- LA: "Jejunum"
 	- ES: "Yeyunos"
 - ## Definition
-	- "the section of the small intestine that comprises the first two fifths beyond the duodenum and that is larger, thicker-walled, and more vascular and has more circular folds and fewer Peyer\u0027s patches than the ileum" - (Mirriam-Webster Dictionary)
+	- "the section of the small intestine that comprises the first two fifths beyond the duodenum and that is larger, thicker-walled, and more vascular and has more circular folds and fewer Peyer's patches than the ileum" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- Circular folds
+        - Arteries
+			- Jejunal arteries
+        - Veins
+			- Jejunal veins
+        - Lymph
+        - Nerves
+			- Celiac plexus
 
 # A05.6.04.001
 - ## Term
@@ -21060,7 +21200,30 @@
 	- LA: "Ileum"
 	- ES: "Ileo"
 - ## Definition
-	- "the last division of the small intestine that constitutes the part between the jejunum and large intestine and in humans forms the last three fifths of the part of the small intestine beyond the end of the duodenum and that is smaller and thinner-walled than the jejunum with fewer circular folds but more numerous Peyer\u0027s patches" - (Mirriam-Webster Dictionary)
+	- "the last division of the small intestine that constitutes the part between the jejunum and large intestine and in humans forms the last three fifths of the part of the small intestine beyond the end of the duodenum and that is smaller and thinner-walled than the jejunum with fewer circular folds but more numerous Peyer's patches" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- Circular folds
+        - Arteries
+			- Ileal arteries
+        - Veins
+			- Ileal veins
+        - Lymph
+        - Nerves
+			- Celiac plexus
 
 # A05.6.04.002
 - ## Term
@@ -21083,6 +21246,32 @@
 	- ES: "Intestino grueso"
 - ## Definition
 	- "the more terminal division of the vertebrate intestine that is wider and shorter than the small intestine, typically divided into cecum, colon, and rectum, and concerned especially with the resorption of water and the formation of feces" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- Segments
+				- Cecum
+				- Colon
+				- Rectum
+			- Omental appendices
+			- Haustra of colon
+			- Taeniae coli
+        - Arteries
+        - Veins
+        - Lymph
+        - Nerves
 
 # A05.7.01.002
 - ## Term
@@ -21146,6 +21335,36 @@
 	- ES: "Ciego"
 - ## Definition
 	- "a cavity open at one end (as the blind end of a duct); especially : the blind pouch at the beginning of the large intestine into which the ileum opens from one side and which is continuous with the colon" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Sac
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+					- Lateral
+					- Medial
+				- Internal
+        - Conformation
+			- Ileal papilla
+			- Ileal orifice
+			- Orifice of vermiform appendix
+			- Taeniae coli
+				- Mesocolic taenia
+				- Omental taenia
+				- Free taenia
+        - Arteries
+			- Anterior cecal artery
+			- Posterior cecal artery
+        - Veins
+			- Anterior cecal vein
+			- Posterior cecal vein
+        - Lymph
+        - Nerves
+			- Celiac plexus
 
 # A05.7.02.002
 - ## Term
@@ -21189,6 +21408,23 @@
 	- ES: "Apéndice vermiforme"
 - ## Definition
 	- "a bodily outgrowth or process; specifically : vermiform appendix" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Cylinder
+			- Surfaces
+				- External
+				- Internal
+        - Conformation
+			- Orifice of vermiform appendix
+        - Arteries
+			- Appendicular artery
+        - Veins
+			- Appendicular vein
+        - Lymph
+        - Nerves
 
 # A05.7.02.008
 - ## Term
@@ -22288,7 +22524,7 @@
 	- LA: "Ductus pancreaticus"
 	- ES: "Conducto pancreático"
 - ## Definition
-	- "a duct connecting the pancreas with the intestine:","the chief duct of the pancreas that runs from left to right through the body of the gland, passes out its neck, and empties into the duodenum either through an opening shared with the common bile duct or through one close to it —called also duct of Wirsung, Wirsung\u0027s duct","accessory pancreatic duct" - (Mirriam-Webster Dictionary)
+	- "a duct connecting the pancreas with the intestine:","the chief duct of the pancreas that runs from left to right through the body of the gland, passes out its neck, and empties into the duodenum either through an opening shared with the common bile duct or through one close to it —called also duct of Wirsung, Wirsung's duct","accessory pancreatic duct" - (Mirriam-Webster Dictionary)
 
 # A05.9.01.016
 - ## Term
@@ -22440,7 +22676,7 @@
 	- LA: "Cartilago vomeronasalis"
 	- ES: "Cartílago vomeronasal"
 - ## Definition
-	- "a narrow process of cartilage between the vomer and the cartilage of the nasal septum —called also Jacobson\u0027s cartilage" - (Mirriam-Webster Dictionary)
+	- "a narrow process of cartilage between the vomer and the cartilage of the nasal septum —called also Jacobson's cartilage" - (Mirriam-Webster Dictionary)
 
 # A06.1.02.001
 - ## Term
@@ -22501,7 +22737,7 @@
 	- LA: "Organum vomeronasale"
 	- ES: "Organo vomeronasal"
 - ## Definition
-	- "either of a pair of small blind pouches or tubes in many vertebrates that are situated one on either side of the nasal septum or in the buccal cavity and that are reduced to rudimentary pits in adult humans but are developed in reptiles, amphibians, and some mammals as chemoreceptors —called also Jacobson\u0027s organ, organ of Jacobson" - (Mirriam-Webster Dictionary)
+	- "either of a pair of small blind pouches or tubes in many vertebrates that are situated one on either side of the nasal septum or in the buccal cavity and that are reduced to rudimentary pits in adult humans but are developed in reptiles, amphibians, and some mammals as chemoreceptors —called also Jacobson's organ, organ of Jacobson" - (Mirriam-Webster Dictionary)
 
 # A06.1.02.009
 - ## Term
@@ -22830,7 +23066,7 @@
 	- LA: "Cartilago thyroidea"
 	- ES: "Cartílago tiroides"
 - ## Definition
-	- "the chief cartilage of the larynx that consists of two broad lamellae joined at an angle and that forms the Adam\u0027s apple" - (Mirriam-Webster Dictionary)
+	- "the chief cartilage of the larynx that consists of two broad lamellae joined at an angle and that forms the Adam's apple" - (Mirriam-Webster Dictionary)
 
 # A06.2.02.003
 - ## Term
@@ -25887,7 +26123,7 @@
 	- LA: "Epoophoron"
 	- ES: "Epoáforo"
 - ## Definition
-	- "a rudimentary organ homologous with the male epididymis that lies in the broad ligament of the uterus and consists of a number of small tubules which are the remains of the tubules of the mesonephros of the embryo and which open into Gartner\u0027s duct —called also organ of Rosenm\u00fcller, parovarium" - (Mirriam-Webster Dictionary)
+	- "a rudimentary organ homologous with the male epididymis that lies in the broad ligament of the uterus and consists of a number of small tubules which are the remains of the tubules of the mesonephros of the embryo and which open into Gartner's duct —called also organ of Rosenm\u00fcller, parovarium" - (Mirriam-Webster Dictionary)
 
 # A09.1.05.002
 - ## Term
@@ -26050,7 +26286,7 @@
 	- LA: "Glandula vestibularis major"
 	- ES: "Glándula vestibular mayor"
 - ## Definition
-	- "bartholin\u0027s gland" - (Mirriam-Webster Dictionary)
+	- "bartholin's gland" - (Mirriam-Webster Dictionary)
 
 # A09.2.01.017
 - ## Term
@@ -26850,7 +27086,7 @@
 	- LA: "Glandula bulbourethralis"
 	- ES: "Glándula bulbouretral"
 - ## Definition
-	- "cowper\u0027s gland" - (Mirriam-Webster Dictionary)
+	- "cowper's gland" - (Mirriam-Webster Dictionary)
 
 # A09.3.09.002
 - ## Term
@@ -28245,7 +28481,7 @@
 	- LA: "Pars intermedia"
 	- ES: "Porción intermedia"
 - ## Definition
-	- "a thin slip of tissue fused with the neurohypophysis and representing the remains of the posterior wall of Rathke\u0027s pouch" - (Mirriam-Webster Dictionary)
+	- "a thin slip of tissue fused with the neurohypophysis and representing the remains of the posterior wall of Rathke's pouch" - (Mirriam-Webster Dictionary)
 
 # A11.1.00.005
 - ## Term
@@ -37457,7 +37693,7 @@
 	- LA: "Venae encephali"
 	- ES: "Venas del encéfalo"
 - ## Definition
-	- "a broad unpaired vein formed by the junction of Galen\u0027s veins and uniting with the inferior sagittal sinus to form the straight sinus" - (Mirriam-Webster Dictionary)
+	- "a broad unpaired vein formed by the junction of Galen's veins and uniting with the inferior sagittal sinus to form the straight sinus" - (Mirriam-Webster Dictionary)
 
 # A12.3.06.002
 - ## Term
@@ -37636,7 +37872,7 @@
 	- LA: "V. magna cerebri"
 	- ES: "V. cerebral magna"
 - ## Definition
-	- "a broad unpaired vein formed by the junction of Galen\u0027s veins and uniting with the inferior sagittal sinus to form the straight sinus" - (Mirriam-Webster Dictionary)
+	- "a broad unpaired vein formed by the junction of Galen's veins and uniting with the inferior sagittal sinus to form the straight sinus" - (Mirriam-Webster Dictionary)
 
 # A12.3.06.028
 - ## Term
@@ -41064,7 +41300,7 @@
 	- LA: "Lamina"
 	- ES: "Lámina"
 - ## Definition
-	- "a thin plate or layer especially of an anatomical part: as","either of two broad, flat plates of bone of a vertebra that is fused with and extends from the pedicle to the median line of the neural arch to form the base of the spinous process and that along with the pedicle forms the posterior part of the vertebral foramen","one of the narrow thin parallel plates of soft vascular sensitive tissue that cover the pododerm of the walls of an animal\u0027s hoof and fit between corresponding horny laminae on the inside of the wall of the hoof" - (Mirriam-Webster Dictionary)
+	- "a thin plate or layer especially of an anatomical part: as","either of two broad, flat plates of bone of a vertebra that is fused with and extends from the pedicle to the median line of the neural arch to form the base of the spinous process and that along with the pedicle forms the posterior part of the vertebral foramen","one of the narrow thin parallel plates of soft vascular sensitive tissue that cover the pododerm of the walls of an animal's hoof and fit between corresponding horny laminae on the inside of the wall of the hoof" - (Mirriam-Webster Dictionary)
 
 # A14.1.00.009
 - ## Term
@@ -44263,7 +44499,7 @@
 	- LA: "Nucleus vestibularis lateralis"
 	- ES: "Núcleo vestibular lateral"
 - ## Definition
-	- "the one of the four vestibular nuclei on each side of the medulla oblongata that is situated on the inner side of the inferior cerebellar peduncle beneath the floor of the fourth ventricle and that sends fibers down the same side of the spinal cord through the vestibulospinal tract —called also Deiters\u0027 nucleus" - (Mirriam-Webster Dictionary)
+	- "the one of the four vestibular nuclei on each side of the medulla oblongata that is situated on the inner side of the inferior cerebellar peduncle beneath the floor of the fourth ventricle and that sends fibers down the same side of the spinal cord through the vestibulospinal tract —called also Deiters' nucleus" - (Mirriam-Webster Dictionary)
 
 # A14.1.05.428
 - ## Term
@@ -44278,7 +44514,7 @@
 	- LA: "Nucleus vestibularis superior"
 	- ES: "Núcleo vestibular superior"
 - ## Definition
-	- "the one of the four vestibular nuclei on each side of the medulla oblongata that is situated dorsal to the lateral vestibular nucleus at the junction of the floor and lateral wall of the fourth ventricle and that sends ascending fibers to the oculomotor and trochlear nuclei in the cerebrum on the same side of the brain —called also Bekhterev\u0027s nucleus" - (Mirriam-Webster Dictionary)
+	- "the one of the four vestibular nuclei on each side of the medulla oblongata that is situated dorsal to the lateral vestibular nucleus at the junction of the floor and lateral wall of the fourth ventricle and that sends ascending fibers to the oculomotor and trochlear nuclei in the cerebrum on the same side of the brain —called also Bekhterev's nucleus" - (Mirriam-Webster Dictionary)
 
 # A14.1.05.430
 - ## Term
@@ -44903,7 +45139,7 @@
 	- LA: "Substantia nigra"
 	- ES: "Sustancia negra"
 - ## Definition
-	- "a layer of deeply pigmented gray matter situated in the midbrain and containing the cell bodies of a tract of dopamine-producing nerve cells whose secretion tends to be deficient in Parkinson\u0027s disease" - (Mirriam-Webster Dictionary)
+	- "a layer of deeply pigmented gray matter situated in the midbrain and containing the cell bodies of a tract of dopamine-producing nerve cells whose secretion tends to be deficient in Parkinson's disease" - (Mirriam-Webster Dictionary)
 
 # A14.1.06.112
 - ## Term
@@ -47400,7 +47636,7 @@
 	- LA: "Nucleus suprachiasmaticus"
 	- ES: "Núcleo supraquiasmático"
 - ## Definition
-	- "either of a pair of neuron clusters in the hypothalamus situated directly above the optic chiasma that receive photic input from the retina via the optic nerve and that regulate the body\u0027s circadian rhythms —abbreviation SCN" - (Mirriam-Webster Dictionary)
+	- "either of a pair of neuron clusters in the hypothalamus situated directly above the optic chiasma that receive photic input from the retina via the optic nerve and that regulate the body's circadian rhythms —abbreviation SCN" - (Mirriam-Webster Dictionary)
 
 # A14.1.08.912
 - ## Term
@@ -48710,7 +48946,7 @@
 	- LA: "Rostrum"
 	- ES: "Pico"
 - ## Definition
-	- "a bodily part or process suggesting a bird\u0027s bill: as","the reflected anterior portion of the corpus callosum below the genu","the interior median spine of the body of the basisphenoid bone articulating with the vomer" - (Mirriam-Webster Dictionary)
+	- "a bodily part or process suggesting a bird's bill: as","the reflected anterior portion of the corpus callosum below the genu","the interior median spine of the body of the basisphenoid bone articulating with the vomer" - (Mirriam-Webster Dictionary)
 
 # A14.1.09.243
 - ## Term
@@ -48900,7 +49136,7 @@
 	- LA: "Cavum"
 	- ES: "Cavidad"
 - ## Definition
-	- "a space beneath the dura mater containing the trigeminal ganglion —called also Meckel\u0027s cavity" - (Mirriam-Webster Dictionary)
+	- "a space beneath the dura mater containing the trigeminal ganglion —called also Meckel's cavity" - (Mirriam-Webster Dictionary)
 
 # A14.1.09.264
 - ## Term
@@ -48908,7 +49144,7 @@
 	- LA: "Lamina"
 	- ES: "Lámina"
 - ## Definition
-	- "a thin plate or layer especially of an anatomical part: as","either of two broad, flat plates of bone of a vertebra that is fused with and extends from the pedicle to the median line of the neural arch to form the base of the spinous process and that along with the pedicle forms the posterior part of the vertebral foramen","one of the narrow thin parallel plates of soft vascular sensitive tissue that cover the pododerm of the walls of an animal\u0027s hoof and fit between corresponding horny laminae on the inside of the wall of the hoof" - (Mirriam-Webster Dictionary)
+	- "a thin plate or layer especially of an anatomical part: as","either of two broad, flat plates of bone of a vertebra that is fused with and extends from the pedicle to the median line of the neural arch to form the base of the spinous process and that along with the pedicle forms the posterior part of the vertebral foramen","one of the narrow thin parallel plates of soft vascular sensitive tissue that cover the pododerm of the walls of an animal's hoof and fit between corresponding horny laminae on the inside of the wall of the hoof" - (Mirriam-Webster Dictionary)
 
 # A14.1.09.265
 - ## Term
@@ -50833,7 +51069,7 @@
 	- LA: "Cauda equina"
 	- ES: "Cola de caballo"
 - ## Definition
-	- "the roots of the spinal nerves that extend beyond the termination of the spinal cord at the first lumbar vertebra in the form of a bundle of filaments within the spinal canal resembling a horse\u0027s tail" - (Mirriam-Webster Dictionary)
+	- "the roots of the spinal nerves that extend beyond the termination of the spinal cord at the first lumbar vertebra in the form of a bundle of filaments within the spinal canal resembling a horse's tail" - (Mirriam-Webster Dictionary)
 
 # A14.2.00.037
 - ## Term
@@ -51897,7 +52133,7 @@
 	- LA: "N. tympanicus"
 	- ES: "N. timpánico"
 - ## Definition
-	- "a branch of the glossopharyngeal nerve arising from the petrosal ganglion and entering the middle ear where it takes part in forming the tympanic plexus —called also Jacobson\u0027s nerve" - (Mirriam-Webster Dictionary)
+	- "a branch of the glossopharyngeal nerve arising from the petrosal ganglion and entering the middle ear where it takes part in forming the tympanic plexus —called also Jacobson's nerve" - (Mirriam-Webster Dictionary)
 
 # A14.2.01.139
 - ## Term
@@ -54111,7 +54347,7 @@
 	- LA: "Ganglion pterygopalatinum"
 	- ES: "Ganglio pterigopalatino"
 - ## Definition
-	- "an autonomic ganglion of the maxillary nerve that is situated in the pterygopalatine fossa and that receives preganglionic parasympathetic fibers from the facial nerve and sends postganglionic fibers to the nasal mucosa, palate, pharynx, and orbit —called also Meckel\u0027s ganglion, sphenopalatine ganglion" - (Mirriam-Webster Dictionary)
+	- "an autonomic ganglion of the maxillary nerve that is situated in the pterygopalatine fossa and that receives preganglionic parasympathetic fibers from the facial nerve and sends postganglionic fibers to the nasal mucosa, palate, pharynx, and orbit —called also Meckel's ganglion, sphenopalatine ganglion" - (Mirriam-Webster Dictionary)
 
 # A14.3.02.007
 - ## Term
@@ -54589,7 +54825,7 @@
 	- LA: "Plexus myentericus"
 	- ES: "Plexo mientérico"
 - ## Definition
-	- "a network of nerve fibers and ganglia between the longitudinal and circular muscle layers of the intestine —called also Auerbach\u0027s plexus" - (Mirriam-Webster Dictionary)
+	- "a network of nerve fibers and ganglia between the longitudinal and circular muscle layers of the intestine —called also Auerbach's plexus" - (Mirriam-Webster Dictionary)
 
 # A14.3.03.042
 - ## Term
@@ -54771,7 +55007,7 @@
 	- LA: "Meridiani"
 	- ES: "Meridianos"
 - ## Definition
-	- "an imaginary circle or closed curve on the surface of a sphere or globe-shaped body (as the eyeball) that lies in a plane passing through the poles","any of the pathways along which the body\u0027s vital energy flows according to the theory of acupuncture" - (Mirriam-Webster Dictionary)
+	- "an imaginary circle or closed curve on the surface of a sphere or globe-shaped body (as the eyeball) that lies in a plane passing through the poles","any of the pathways along which the body's vital energy flows according to the theory of acupuncture" - (Mirriam-Webster Dictionary)
 
 # A15.2.01.006
 - ## Term
@@ -56423,7 +56659,7 @@
 	- LA: "Fossa triangularis"
 	- ES: "Fosa triangular"
 - ## Definition
-	- "a shallow depression in the anterior part of the top of the ear\u0027s auricle between the two crura into which the antihelix divides" - (Mirriam-Webster Dictionary)
+	- "a shallow depression in the anterior part of the top of the ear's auricle between the two crura into which the antihelix divides" - (Mirriam-Webster Dictionary)
 
 # A15.3.01.011
 - ## Term
@@ -56497,7 +56733,7 @@
 	- LA: "(Tuberculum auriculare)"
 	- ES: "(Tubérculo auricular)"
 - ## Definition
-	- "darwin\u0027s tubercle" - (Mirriam-Webster Dictionary)
+	- "darwin's tubercle" - (Mirriam-Webster Dictionary)
 
 # A15.3.01.021
 - ## Term
@@ -58537,7 +58773,7 @@
 	- LA: "Barba"
 	- ES: "Barba"
 - ## Definition
-	- "the hair that grows on a man\u0027s face often excluding the mustache" - (Mirriam-Webster Dictionary)
+	- "the hair that grows on a man's face often excluding the mustache" - (Mirriam-Webster Dictionary)
 
 # A16.0.00.019
 - ## Term

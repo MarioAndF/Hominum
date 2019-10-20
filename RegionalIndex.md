@@ -367,6 +367,22 @@
 	- Lumbar trunk [A12.4.01.013]
 	- Cisterna chyli [A12.4.01.012]
 - Viscerae
+	- Stomach [A05.5.01.001]
+	- Small intestine [A05.6.01.001]
+		- Duodenum [A05.5.01.001]
+		- Jejunum [A05.6.03.001]
+		- Ileum [A05.6.04.001]
+	- Large intestine [A05.7.01.001]
+		- Cecum [A05.7.02.001]
+		- Appendix [A05.7.02.007]
+		- Colon [A05.7.03.001]
+		- Rectum [A05.7.04.001]
+	- Liver
+	- Pancreas
+	- Spleen
+	- Kidney
+	- Ureter
+	- Bladder
 ### Pelvis
 - Skeleton
 	- Pelvis
