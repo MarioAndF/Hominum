@@ -21272,6 +21272,8 @@
         - Veins
         - Lymph
         - Nerves
+			- Superior mesenteric plexus
+			- Inferior mesenteric plexus
 
 # A05.7.01.002
 - ## Term
@@ -21349,13 +21351,18 @@
 					- Medial
 				- Internal
         - Conformation
-			- Ileal papilla
-			- Ileal orifice
-			- Orifice of vermiform appendix
-			- Taeniae coli
-				- Mesocolic taenia
-				- Omental taenia
-				- Free taenia
+			- Internal
+				- Ileal papilla
+				- Ileal orifice
+				- Ileocolic lip
+				- Ileocolic lip
+				- Frenulum of ileal orifice
+				- Orifice of vermiform appendix
+			- External
+				- Taeniae coli
+					- Mesocolic taenia
+					- Omental taenia
+					- Free taenia
         - Arteries
 			- Anterior cecal artery
 			- Posterior cecal artery
@@ -21454,6 +21461,32 @@
 	- ES: "Colon"
 - ## Definition
 	- "the part of the large intestine that extends from the cecum to the rectum" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- Segments
+				- Ascending colon
+				- Right colic flexure
+				- Transverse colon
+				- Left colic flexure
+				- Descending colon
+				- Sigmoid colon
+        - Arteries
+        - Veins
+        - Lymph
+        - Nerves
 
 # A05.7.03.002
 - ## Term
@@ -21462,6 +21495,36 @@
 	- ES: "Colon ascendente"
 - ## Definition
 	- "the part of the large intestine that extends from the cecum to the bend on the right side below the liver" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- External
+				- Omental appendices
+				- Haustra of colon
+				- Taeniae coli
+					- Mesocolic taenia
+					- Omental taenia
+					- Free taenia
+			- Internal
+				- Semilunar folds of colon
+        - Arteries
+			- Right colic artery
+        - Veins
+			- Right colic vein
+        - Lymph
+        - Nerves
 
 # A05.7.03.003
 - ## Term
@@ -21478,6 +21541,36 @@
 	- ES: "Colon transverso"
 - ## Definition
 	- "the part of the large intestine that extends across the abdominal cavity joining the ascending colon to the descending colon" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- External
+				- Omental appendices
+				- Haustra of colon
+				- Taeniae coli
+					- Mesocolic taenia
+					- Omental taenia
+					- Free taenia
+			- Internal
+				- Semilunar folds of colon
+        - Arteries
+			- Middle colic artery
+        - Veins
+			- Middle colic vein
+        - Lymph
+        - Nerves
 
 # A05.7.03.005
 - ## Term
@@ -21494,6 +21587,36 @@
 	- ES: "Colon descendente"
 - ## Definition
 	- "the part of the large intestine on the left side that extends from the bend below the spleen to the sigmoid colon" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- External
+				- Omental appendices
+				- Haustra of colon
+				- Taeniae coli
+					- Mesocolic taenia
+					- Omental taenia
+					- Free taenia
+			- Internal
+				- Semilunar folds of colon
+        - Arteries
+			- Left colic artery
+        - Veins
+			- Left colic vein
+        - Lymph
+        - Nerves
 
 # A05.7.03.007
 - ## Term
@@ -21502,6 +21625,38 @@
 	- ES: "Colon sigmoideo"
 - ## Definition
 	- "the contracted and crooked part of the colon immediately above the rectum —called also pelvic colon, sigmoid flexure" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+			- Borders
+					- Mesenteric
+					- Free
+        - Conformation
+			- Segments
+				- Iliac
+				- Pelvic
+			- External
+				- Omental appendices
+				- Taeniae coli
+					- Mesocolic taenia
+					- Omental taenia
+					- Free taenia
+			- Internal
+				- Semilunar folds of colon
+        - Arteries
+			- Sigmoid arteries
+        - Veins
+			- Sigmoid veins
+        - Lymph
+        - Nerves
 
 # A05.7.03.008
 - ## Term
@@ -21581,6 +21736,34 @@
 	- ES: "Recto"
 - ## Definition
 	- "the terminal part of the intestine from the sigmoid colon to the anus" - (Mirriam-Webster Dictionary)
+- ## Data
+    - Anatomy
+        - Constitution
+        - Configuration
+			- Shape
+				- Tube
+			- Surfaces
+				- External
+					- Anterior
+					- Posterior
+				- Internal
+        - Conformation
+			- External
+				- Sacral flexure
+				- Rectal ampulla
+				- Anorectal flexure
+			- Internal
+				- Transverse folds of rectum
+        - Arteries
+			- Superior rectal artery
+			- Middle rectal artery
+			- Inferior rectal artery
+        - Veins
+			- Superior rectal vein
+			- Middle rectal vein
+			- Inferior rectal vein
+        - Lymph
+        - Nerves
 
 # A05.7.04.002
 - ## Term
