@@ -377,7 +377,19 @@
 		- Appendix [A05.7.02.007]
 		- Colon [A05.7.03.001]
 		- Rectum [A05.7.04.001]
-	- Liver
+	- Liver [A05.8.01.001]
+	- Bile ducts
+		- Intrahepatic ducts
+			- Interlobular bile ducts [A05.8.01.060]
+		- Extrahepatic ducts
+			- Main biliar ducts
+				- Right hepatic duct [A05.8.01.062]
+				- Left hepatic duct [A05.8.01.065]
+				- Common hepatic duct [A05.8.01.061]
+				- Bile duct [A05.8.02.013]
+			- Accessory biliar ducts
+				- Cystic duct [A05.8.02.011]
+				- Gallbladder [A05.8.02.001]
 	- Pancreas
 	- Spleen
 	- Kidney

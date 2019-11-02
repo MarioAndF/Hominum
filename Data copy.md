@@ -29542,7 +29542,9 @@
 
 # A12.1.00.017
 - ## Term
-	- EN: "Right or left atrium"
+	- EN: "Right or"
+- ## Term
+	- EN: "left atrium"
 	- LA: "Atrium cordis dextrum or sinistrum"
 	- ES: "Atrio derecho/izquierdo"
 - ## Definition
