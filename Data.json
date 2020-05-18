@@ -29407,7 +29407,11 @@
 						"Sigmoid colon": {}
 					}
 				},
-				"arteries": {},
+				"arteries": {
+					"Superior mesenteric artery": {},
+					"Inferior mesenteric artery": {},
+					"Internal iliac artery": {}
+				},
 				"veins": {},
 				"lymphatics": {},
 				"nerves": {}
