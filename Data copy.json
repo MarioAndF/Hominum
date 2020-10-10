@@ -9,16 +9,6 @@
         },
         "definition": ""
     },
-    "A01.1.00.000": {
-        "id": "A01.1.00.000",
-        "name": "Parts of human body",
-        "term_localized": {
-            "en": "Parts of human body",
-            "la": "Partes corporis humani",
-            "es": "Partes del cuerpo humano"
-        },
-        "definition": ""
-    },
     "A01.1.00.001": {
         "id": "A01.1.00.001",
         "name": "Head",
@@ -654,16 +644,6 @@
             "es": "Cavidad pélvica"
         },
         "definition": "the cavity of the pelvis comprising in humans a broad upper and a more contracted lower part (Merriam-Webster Dictionary)"
-    },
-    "A01.2.00.000": {
-        "id": "A01.2.00.000",
-        "name": "Planes, lines and regions",
-        "term_localized": {
-            "en": "Planes, lines and regions",
-            "la": "Plana, lineae et regiones",
-            "es": "Planos, líneas y regiones"
-        },
-        "definition": ""
     },
     "A01.2.00.001": {
         "id": "A01.2.00.001",
