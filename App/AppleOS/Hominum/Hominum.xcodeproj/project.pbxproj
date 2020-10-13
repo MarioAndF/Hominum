@@ -1,0 +1,598 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CDF3AE27253570D7009A483A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF3AE26253570D7009A483A /* AppDelegate.swift */; };
+		CDF3AE29253570D7009A483A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF3AE28253570D7009A483A /* SceneDelegate.swift */; };
+		CDF3AE2B253570D7009A483A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF3AE2A253570D7009A483A /* ViewController.swift */; };
+		CDF3AE2E253570D7009A483A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDF3AE2C253570D7009A483A /* Main.storyboard */; };
+		CDF3AE30253570DB009A483A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF3AE2F253570DB009A483A /* Assets.xcassets */; };
+		CDF3AE33253570DB009A483A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDF3AE31253570DB009A483A /* LaunchScreen.storyboard */; };
+		CDF3AE3E253570DB009A483A /* HominumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF3AE3D253570DB009A483A /* HominumTests.swift */; };
+		CDF3AE49253570DB009A483A /* HominumUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF3AE48253570DB009A483A /* HominumUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CDF3AE3A253570DB009A483A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CDF3AE1B253570D7009A483A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CDF3AE22253570D7009A483A;
+			remoteInfo = Hominum;
+		};
+		CDF3AE45253570DB009A483A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CDF3AE1B253570D7009A483A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CDF3AE22253570D7009A483A;
+			remoteInfo = Hominum;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CDF3AE23253570D7009A483A /* Hominum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hominum.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDF3AE26253570D7009A483A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CDF3AE28253570D7009A483A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		CDF3AE2A253570D7009A483A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CDF3AE2D253570D7009A483A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CDF3AE2F253570DB009A483A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CDF3AE32253570DB009A483A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CDF3AE34253570DB009A483A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDF3AE39253570DB009A483A /* HominumTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HominumTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDF3AE3D253570DB009A483A /* HominumTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HominumTests.swift; sourceTree = "<group>"; };
+		CDF3AE3F253570DB009A483A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDF3AE44253570DB009A483A /* HominumUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HominumUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDF3AE48253570DB009A483A /* HominumUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HominumUITests.swift; sourceTree = "<group>"; };
+		CDF3AE4A253570DB009A483A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CDF3AE20253570D7009A483A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDF3AE36253570DB009A483A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDF3AE41253570DB009A483A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CDF3AE1A253570D7009A483A = {
+			isa = PBXGroup;
+			children = (
+				CDF3AE25253570D7009A483A /* Hominum */,
+				CDF3AE3C253570DB009A483A /* HominumTests */,
+				CDF3AE47253570DB009A483A /* HominumUITests */,
+				CDF3AE24253570D7009A483A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CDF3AE24253570D7009A483A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CDF3AE23253570D7009A483A /* Hominum.app */,
+				CDF3AE39253570DB009A483A /* HominumTests.xctest */,
+				CDF3AE44253570DB009A483A /* HominumUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CDF3AE25253570D7009A483A /* Hominum */ = {
+			isa = PBXGroup;
+			children = (
+				CDF3AE26253570D7009A483A /* AppDelegate.swift */,
+				CDF3AE28253570D7009A483A /* SceneDelegate.swift */,
+				CDF3AE2A253570D7009A483A /* ViewController.swift */,
+				CDF3AE2C253570D7009A483A /* Main.storyboard */,
+				CDF3AE2F253570DB009A483A /* Assets.xcassets */,
+				CDF3AE31253570DB009A483A /* LaunchScreen.storyboard */,
+				CDF3AE34253570DB009A483A /* Info.plist */,
+			);
+			path = Hominum;
+			sourceTree = "<group>";
+		};
+		CDF3AE3C253570DB009A483A /* HominumTests */ = {
+			isa = PBXGroup;
+			children = (
+				CDF3AE3D253570DB009A483A /* HominumTests.swift */,
+				CDF3AE3F253570DB009A483A /* Info.plist */,
+			);
+			path = HominumTests;
+			sourceTree = "<group>";
+		};
+		CDF3AE47253570DB009A483A /* HominumUITests */ = {
+			isa = PBXGroup;
+			children = (
+				CDF3AE48253570DB009A483A /* HominumUITests.swift */,
+				CDF3AE4A253570DB009A483A /* Info.plist */,
+			);
+			path = HominumUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CDF3AE22253570D7009A483A /* Hominum */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CDF3AE4D253570DB009A483A /* Build configuration list for PBXNativeTarget "Hominum" */;
+			buildPhases = (
+				CDF3AE1F253570D7009A483A /* Sources */,
+				CDF3AE20253570D7009A483A /* Frameworks */,
+				CDF3AE21253570D7009A483A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Hominum;
+			productName = Hominum;
+			productReference = CDF3AE23253570D7009A483A /* Hominum.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CDF3AE38253570DB009A483A /* HominumTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CDF3AE50253570DB009A483A /* Build configuration list for PBXNativeTarget "HominumTests" */;
+			buildPhases = (
+				CDF3AE35253570DB009A483A /* Sources */,
+				CDF3AE36253570DB009A483A /* Frameworks */,
+				CDF3AE37253570DB009A483A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CDF3AE3B253570DB009A483A /* PBXTargetDependency */,
+			);
+			name = HominumTests;
+			productName = HominumTests;
+			productReference = CDF3AE39253570DB009A483A /* HominumTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CDF3AE43253570DB009A483A /* HominumUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CDF3AE53253570DB009A483A /* Build configuration list for PBXNativeTarget "HominumUITests" */;
+			buildPhases = (
+				CDF3AE40253570DB009A483A /* Sources */,
+				CDF3AE41253570DB009A483A /* Frameworks */,
+				CDF3AE42253570DB009A483A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CDF3AE46253570DB009A483A /* PBXTargetDependency */,
+			);
+			name = HominumUITests;
+			productName = HominumUITests;
+			productReference = CDF3AE44253570DB009A483A /* HominumUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CDF3AE1B253570D7009A483A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					CDF3AE22253570D7009A483A = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
+					CDF3AE38253570DB009A483A = {
+						CreatedOnToolsVersion = 12.0.1;
+						TestTargetID = CDF3AE22253570D7009A483A;
+					};
+					CDF3AE43253570DB009A483A = {
+						CreatedOnToolsVersion = 12.0.1;
+						TestTargetID = CDF3AE22253570D7009A483A;
+					};
+				};
+			};
+			buildConfigurationList = CDF3AE1E253570D7009A483A /* Build configuration list for PBXProject "Hominum" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CDF3AE1A253570D7009A483A;
+			productRefGroup = CDF3AE24253570D7009A483A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CDF3AE22253570D7009A483A /* Hominum */,
+				CDF3AE38253570DB009A483A /* HominumTests */,
+				CDF3AE43253570DB009A483A /* HominumUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CDF3AE21253570D7009A483A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDF3AE33253570DB009A483A /* LaunchScreen.storyboard in Resources */,
+				CDF3AE30253570DB009A483A /* Assets.xcassets in Resources */,
+				CDF3AE2E253570D7009A483A /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDF3AE37253570DB009A483A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDF3AE42253570DB009A483A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CDF3AE1F253570D7009A483A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDF3AE2B253570D7009A483A /* ViewController.swift in Sources */,
+				CDF3AE27253570D7009A483A /* AppDelegate.swift in Sources */,
+				CDF3AE29253570D7009A483A /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDF3AE35253570DB009A483A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDF3AE3E253570DB009A483A /* HominumTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDF3AE40253570DB009A483A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDF3AE49253570DB009A483A /* HominumUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CDF3AE3B253570DB009A483A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CDF3AE22253570D7009A483A /* Hominum */;
+			targetProxy = CDF3AE3A253570DB009A483A /* PBXContainerItemProxy */;
+		};
+		CDF3AE46253570DB009A483A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CDF3AE22253570D7009A483A /* Hominum */;
+			targetProxy = CDF3AE45253570DB009A483A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CDF3AE2C253570D7009A483A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDF3AE2D253570D7009A483A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CDF3AE31253570DB009A483A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDF3AE32253570DB009A483A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CDF3AE4B253570DB009A483A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CDF3AE4C253570DB009A483A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CDF3AE4E253570DB009A483A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 44992BDVE5;
+				INFOPLIST_FILE = Hominum/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.marioandf.Hominum;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CDF3AE4F253570DB009A483A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 44992BDVE5;
+				INFOPLIST_FILE = Hominum/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.marioandf.Hominum;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		CDF3AE51253570DB009A483A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 44992BDVE5;
+				INFOPLIST_FILE = HominumTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.marioandf.HominumTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hominum.app/Hominum";
+			};
+			name = Debug;
+		};
+		CDF3AE52253570DB009A483A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 44992BDVE5;
+				INFOPLIST_FILE = HominumTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.marioandf.HominumTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hominum.app/Hominum";
+			};
+			name = Release;
+		};
+		CDF3AE54253570DB009A483A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 44992BDVE5;
+				INFOPLIST_FILE = HominumUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.marioandf.HominumUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Hominum;
+			};
+			name = Debug;
+		};
+		CDF3AE55253570DB009A483A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 44992BDVE5;
+				INFOPLIST_FILE = HominumUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.marioandf.HominumUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Hominum;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CDF3AE1E253570D7009A483A /* Build configuration list for PBXProject "Hominum" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDF3AE4B253570DB009A483A /* Debug */,
+				CDF3AE4C253570DB009A483A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CDF3AE4D253570DB009A483A /* Build configuration list for PBXNativeTarget "Hominum" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDF3AE4E253570DB009A483A /* Debug */,
+				CDF3AE4F253570DB009A483A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CDF3AE50253570DB009A483A /* Build configuration list for PBXNativeTarget "HominumTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDF3AE51253570DB009A483A /* Debug */,
+				CDF3AE52253570DB009A483A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CDF3AE53253570DB009A483A /* Build configuration list for PBXNativeTarget "HominumUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDF3AE54253570DB009A483A /* Debug */,
+				CDF3AE55253570DB009A483A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CDF3AE1B253570D7009A483A /* Project object */;
+}
