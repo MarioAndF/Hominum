@@ -1,0 +1,83 @@
+[
+    {
+        "icd9": "",
+        "name": "Template",
+        "indications": [],
+        "contraindications": [],
+        "preprocedure": {
+            "equipment": "",
+            "anesthesia": "",
+            "positioning": "",
+            "preparation": ""
+        },
+        "procedure": {
+            "incision": "",
+            "technique": []
+        },
+        "postprecedure": {
+            "care": [],
+            "complications": []
+        }
+    },
+    {
+        "icd9": "52.7",
+        "name": "Pancreaticoduodenectomy",
+        "alias": [
+            "Whipple procedure"
+        ],
+        "indications": [
+            "Bile Duct Tumors",
+            "Ampulla of Vater Tumors",
+            "Head of pancreas tumors",
+            "Duodenum tumors",
+            "Pancreaticoduodenal trauma"
+        ],
+        "contraindications": [],
+        "preprocedure": {
+            "equipment": "abdominal tray with vascular clamps",
+            "anesthesia": "general anesthesia with endotraqueal intubation",
+            "positioning": "supine with feet slightly lower",
+            "preparation": "central catheter, bladder catheter"
+        },
+        "procedure": {
+            "incision": "upper midline || chevron",
+            "technique": [
+                "Exploration",
+                "Kocher maneuver",
+                "Blunt dissection to push posterior wall of pancreas from underlying inferior vena cava",
+                "Free the second and third part of the Duodenum",
+                "Incision through the lesser sac",
+                "Peritoneum over the superior border of duodenum is incised",
+                "Isolate common bile duct",
+                "Ligate right gastroepiploic vessels",
+                "Encircle the antrum",
+                "Ligate right gastric vessels",
+                "Antrectomy",
+                "Identify common hepatic artery and gastroduodenal artery",
+                "Ligate gastroduodenal artery",
+                "Pass a blunt clamp or finger between portal vein and neck of pancreas",
+                "Divide the neck of the pancreas",
+                "Ligate small veins from portal vein to head of pancreas",
+                "Incise peritoneum about the third portion of duodenum",
+                "Ligate short mesentery of duodenum",
+                "Cholecystectomy",
+                "Incise mesentery below arcades to movilize jejunum",
+                "Divide bowel where blood supply is good",
+                "Remove specimen",
+                "Bring jejunum through opening in mesocolon",
+                "The pancreas is anastomosed to the open end of the jejunum",
+                "Choledocojejunostomy with a single-layer termino-lateral anastomosis",
+                "Anchor jejunum to the liver bed",
+                "Gastrojejunal anastamosis",
+                "Closed-suction drains placed next to anastomosis"
+            ]
+        },
+        "postprecedure": {
+            "care": [
+                "Fluid balance",
+                "Monitor drains output"
+            ],
+            "complications": []
+        }
+    }
+]

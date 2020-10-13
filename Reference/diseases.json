@@ -1,0 +1,207 @@
+[
+    {
+        "icd10": "",
+        "name": "Template",
+        "definition": "",
+        "classification": [],
+        "epidemiology": [],
+        "etiology": [],
+        "physiopatology": "",
+        "history": [],
+        "physical": [],
+        "differential": [],
+        "diagnostics": {
+            "laboratory": [],
+            "imaging": []
+        },
+        "treatment": {
+            "medical": [],
+            "surgical": []
+        },
+        "prognosis": {
+            "complications": [],
+            "mortality": ""
+        }
+    },
+    {
+        "icd10": "E87.1",
+        "name": "Hyponatremia",
+        "definition": "Serum sodium concentration < 135 mmol/L",
+        "classification": [
+            "Mild: 130-134 mmol/L",
+            "Moderate: 125-129 mmol/L",
+            "Severe: 120-124 mmol/L",
+            "Acute: < 48 h",
+            "Chronic: > 48 h"
+        ],
+        "etiology": [
+            "Hypovolemic hyponatremia: Excess fluid losses (vomit, diarrhea, sweat, GI fistula, drain tubes, pancreatitis, burn), Cerebral salt-wasting syndrome, Aggresive hydration",
+            "Euvolemic hyponatremia: SIADH, Iatrogenic",
+            "Hypervolemic hyponatremia: Renal failure, Hepatic cirrhosis, Congestive heart failure, Nephrotic syndrome"
+        ],
+        "physiopatology": "",
+        "history": [
+            "anorexia",
+            "nausea",
+            "vomiting",
+            "confusion",
+            "lethargy",
+            "agitation",
+            "headache",
+            "seizures"
+        ],
+        "physical": [
+            "comatose",
+            "disorientation",
+            "seizure",
+            "signs of brainstem herniation"
+        ],
+        "diagnostics": {
+            "laboratory": [
+                "Serum sodium concentration < 135 mmol/L",
+                "Urine sodium concentration > 20mEq/L (Helpful distinguishing renal from nonrenal causes)"
+            ],
+            "imaging": [
+                "Brain CT Scan"
+            ]
+        },
+        "treatment": {
+            "medical": [
+                "Hypovolemic hyponatremia: Normal saline solution 0.9%",
+                "Euvolemic hyponatremia: Treatment of underlying cause, water restriction, vasopressin antagonists",
+                "Hypervolemic hyponatremia: Treatment of underlying cause, sodium restriction, diuretics, water restriction",
+                "Acute symptomatic hyponatremia: 3% hypertonic saline solution at 1-2 mM/h up to 6 mM in 24h"
+            ]
+        },
+        "prognosis": {
+            "complications": [
+                "Osmotic demyelination syndrome if treatment > 10-12 mM/day"
+            ]
+        }
+    },
+    {
+        "icd10": "E87.0",
+        "name": "Hypernatremia",
+        "definition": "Serum sodium concentration > 145 mmol/L",
+        "classification": [],
+        "epidemiology": [
+            "elderly",
+            "children"
+        ],
+        "etiology": [
+            "Water loss (diuretics, gastrointestinal, skin)",
+            "Iatrogenic",
+            "Low water intake (altered mental status, abnormal thirst, dementia)",
+            "Diabetes insipidus"
+        ],
+        "physiopatology": "",
+        "history": [
+            "lethargy",
+            "agitation",
+            "coma",
+            "thirst"
+        ],
+        "physical": [
+            "coma",
+            "taquicardia",
+            "hipotension",
+            "orthostasis",
+            "dry mucosa",
+            "subarachnoid hemorrhage"
+        ],
+        "diagnostics": {
+            "laboratory": [
+                "Serum sodium concentration > 145 mmol/L",
+                "Glucose concentration",
+                "Urea",
+                "Creatinine",
+                "Urine electrolytes",
+                "Plasma arginine vasopressin level"
+            ],
+            "imaging": [
+                "Brain CT Scan"
+            ]
+        },
+        "treatment": {
+            "medical": [
+                "Treat underlying cause",
+                "Correct sodium concentrarion at a maxium rate of 10 mM/day",
+                "Calculate water deficit",
+                "Administer water PO or per NGT if possible",
+                "If PO not possible, administer 5% dextrose parenteral"
+            ]
+        },
+        "prognosis": {
+            "complications": [
+                "Brain edema if correction > 10 mM/day"
+            ],
+            "mortality": "40-60%"
+        }
+    },
+    {
+        "icd10": "C24.1",
+        "name": "Ampullary carcinoma",
+        "definition": "Malignant tumor originating from the Ampulla of Vater",
+        "classification": [],
+        "epidemiology": [
+            "0.2% of gastrointestinal tract malignancies",
+            "7% of periampullary carcinomas",
+            "More common in men"
+        ],
+        "etiology": [],
+        "physiopatology": "",
+        "history": [
+            "jaundice",
+            "abdominal pain",
+            "dyspepsia",
+            "malaise",
+            "anorexia",
+            "pruritus",
+            "nausea",
+            "vomiting",
+            "weight loss",
+            "diarrhea"
+        ],
+        "physical": [
+            "fever",
+            "upper gastrointestinal bleed",
+            "courvoisier gallbladder",
+            "pancreatitis",
+            "abdominal pain"
+        ],
+        "differential": [
+            "Bile duct strictures",
+            "Bile duct tumors",
+            "Cholangiocarcinoma",
+            "Gallbladder cancer",
+            "Non-Hodgkin lymphoma",
+            "Pancreatic cancer"
+        ],
+        "diagnostics": {
+            "laboratory": [
+                "Complete blood count",
+                "Electrolyte panel",
+                "Liver function studies",
+                "CA 19-9",
+                "Carcinoembryonic antigen"
+            ],
+            "imaging": [
+                "Abdominal ultrasonography",
+                "Abdominal CT scan",
+                "ERCP",
+                "Chest radiography"
+            ]
+        },
+        "treatment": {
+            "medical": [],
+            "surgical": [
+                "pancreaticoduodenectomy (procedure of choice)",
+                "local excision"
+            ]
+        },
+        "prognosis": {
+            "complications": [],
+            "mortality": "5 year overall survival rate of 50% with resection"
+        }
+    }
+]
